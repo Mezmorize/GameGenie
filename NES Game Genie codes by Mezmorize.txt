@@ -1,0 +1,894 @@
+Note: If viewing this document in a program such as Notepad, be sure to go to Format->Word Wrap and un-check it. These NES Game Genie cheats were made years ago by Mezmorize of GameHacking.org
+
+Game Name						Code Name							Code		Note about code.
+Abadox - The Deadly Inner War (USA)			All Powerups							AEEGVTPL 	
+							Invulnerability							AAESOSAA 	
+Addams Family, The (USA)				Get Items From Anywhere						GXEZGTEP	
+															GXOZITEP	
+															GXOXYTEP	
+															GXEXLTEL 	
+							Infinite Lives							ZAEAKVZO 	Press Start on the Title Screen to enable the Infinite Lives cheat. 
+							No Annoying Health Depletion Sound				APSXIZAL 	
+							No Piranha Plant Enemies					ELEZOGEP 	
+							Walk On Air							ENOAEAEI 	
+							Walk Thru Walls							AINEGYEI	
+															ASEAYYEI 	
+Addams Family, The - Pugsley's Scavenger Hunt (USA)	Create Platforms To Land On As You Jump				EYVYYAEI 	
+							Enemies Can't Move Horizontally					ESVONGEY 	
+							Enemies Can't Move Vertically					EIEOEIEY 	
+							Enemies Get Stuck In Place When Trying To Turn Around		ELXSIPEP 	
+							Enemies On The Ground Are Hyper					EYSPTYEI 	
+							Enemies On The Ground Are Stuck In Place			EYXSZPEI 	
+							Fly Anytime							GXOVPYEY 	
+							Invincibility Status Effect					GXUTKPEY 	
+							No Enemies							APKOOIAL 	
+							Sweets Count As Extra Lives Also				EIEKYGEY 	
+							Walk On Air							ENXYGPEI 	
+Advanced Dungeons & Dragons - DragonStrike (USA)	Japanese Text Mode						ESVPSIEY 	
+							Sound Test							ESUOXIEY 	Press Start on the Title Screen.
+Advanced Dungeons & Dragons - Heroes of the Lance (USA)	Map Select Enabled						AAXOXOPA 	At the Main Menu, hold Down on controller 2 and use the A and B buttons to select the map. 
+Adventure Island II (USA)				Infinite Health							EIUIZAEY 	
+							Infinite Health (Alt)						EYXSPAEI 	
+							Invulnerability							ENKSKTEI 	
+							Automatically Run, Hold B To Walk				ESEZYAEY 	
+							Hold Jump To Slowly Float, Let Go To Slowly Fall		AYOLIPEI 	
+							Boot Into World Select Menu					AASZXXPA 	
+							Start On World 0 (Glitched)					AEKXUZPA 	
+							Start On World 2 (Lake Island)					ZEKXUZPA 	
+							Start On World 3 (Desert Island)				LEKXUZPA 	
+							Start On World 4 (Ice Island)					GEKXUZPA 	
+							Start On World 5 (Cave Island)					IEKXUZPA 	
+							Start On World 6 (Cloud Island)					TEKXUZPA 	
+							Start On World 7 (Volcano Island)				YEKXUZPA 	
+							Start On World 8 (Dinosaur Island)				AEKXUZPE 	
+							Always Have Axes						AEXULTLA 	
+							Blue Dinosaur Comes Out Of Eggs					EYXZUZEI 	
+							Flying Dinosaur Comes Out Of Eggs				EYUZOZEI 	
+							Food Fully Restores Health					ENKZXPEI 	
+							Food Gives Lives Instead Of Points				EYEXEGEI 	
+							Gain Fire Dinosaur From Skateboard Pickup			ALVXNAAP 	
+							Gain Flying Dinosaur From Fire Dinosaur Pickup			AGOXXPAL 	
+							Gain Flying Dinosaur From Skateboard Pickup			AGVXNAAP 	
+							Gain Ice Dinosaur From Fire Dinosaur Pickup			AZOXXPAL 	
+							Gain Ice Dinosaur From Skateboard Pickup			AZVXNAAP 	
+							Gain Nothing From Skateboard Pickup				AAVXNAAP 	
+							Gain Skateboard From Fire Dinosaur Pickup			APOXXPAL 	
+							Gain Swimming Dinosaur From Fire Dinosaur Pickup		AIOXXPAL 	
+							Gain Swimming Dinosaur From Skateboard Pickup			AIVXNAAP 	
+							Get Fire Dinosaur After Death					AUOUNGAA 	
+							Get Flying Dinosaur After Death					AKOUNGAA 	
+							Get Ice Dinosaur After Death					AXOUNGAA 	
+							Get Items From Anywhere						ELKXGYEP 	
+							Get Skateboard After Death					AOOUNGAA 	
+							Get Skateboard Instead Of Axe From Egg				EISXVZEY 	
+							Get Swimming Dinosaur After Death				ASOUNGAA 	
+							Invincibility Pet Comes Out Of Eggs				EYOZSZEI 	
+							Key Comes Out Of Eggs						EYUXNZEI 	Doesn't work on all eggs. The key takes you on the bonus cloud stage with power-ups. 
+							Key Comes Out Of Eggs (Alt)					EYSZKZEI 	Doesn't work on all eggs. The key takes you on the normal bonus cloud stage. 
+							Key To Island Skip Room Comes Out Of Eggs			EYKXSZEI 	
+							Key To Secret Room Comes Out Of Eggs				EYKZVZEI 	
+							Meat Comes Out Of Eggs						EYEXVZEI 	
+							Press Select To Change What You're Riding On			AEUNZGPZ	
+															ITNXKZTT	
+															AZNXVZAG 	
+							Press Start For Fire Dinosaur					GNENGSZV	Can only use one "Press Start For..." code at a time.
+															AUENZIPA 	
+							Press Start For Flying Dinosaur					GNENGSZV	
+															AKENZIPA 	
+							Press Start For Ice Dinosaur					GNENGSZV	
+															AXENZIPA 	
+							Press Start For Skateboard					GNENGSZV	
+															AOENZIPA 	
+							Press Start For Swimming Dinosaur				GNENGSZV	
+															ASENZIPA 	
+							Red Dinosaur Comes Out Of Eggs					EYXXXZEI 	
+							Start Game With 9 Of All Items					PAEZSLAE 	
+							Start With 254 Of All Items					AAVUPYIA	The item digit will appear glitched, since 9 is normally the max amount.
+															NNULNEZE	
+															VYVULNPE 	
+							Start With 9 Of All Items					AAVUPYIA 	
+							Swimming Dinosaur Comes Out Of Eggs				EYUXEZEI 	
+							Enter Debug Menu After Death					AEXLSKPA 	
+							No Audio							ELEVUPEP 	
+							Score And Lives Constantly Rise					EYNGNYEI 	
+							Snails Travel Faster						EOUXYZEL 	
+Adventure Island 3 (USA)				Enemies Die When You Touch Them					AEXZXGIP 	
+							Infinite Health							EIVYSIEY 	
+							Infinite Health (Alt)						ESENNIEY 	
+							Invulnerability							AEEXNGLA 	
+							After You Jump, You Float					EPNXIYEL 	Turn off the code to fall back down.
+							Fall Slower After Jumping					EUVZNZEP 	
+							Float Upwards While Holding A, Let Go To Slowly Fall		EYEZSZEI 	
+							Jump Much Higher						EYNXSZEI 	
+							Keep Walking After Letting Go Of Right Or Left			EIVZIAEY 	
+							1 Fruit Counts As 11						ESSNOIEY 	
+							99 Of All Items							EYKLYPEI 	Press A on an egg to turn it into 99 of it's contents. 
+							Always Have Boomerangs						YAVLAALA	Will not work with "Always Have Hammers" code also enabled.
+															AISUYAEI 	
+							Always Have Hammers						AYSUYAEI 	
+							Always Have Invincibility Shield				AAXZAPLA 	
+							Fruit Fully Restores Health					ELXZLTEP 	
+							Press Start For Fire Dinosaur					GNEYPOZV	Can only use one "Press Start For ..." code at a time. Disables pause feature. 
+															ALNNYPPA 	
+							Press Start For Flying Dinosaur					GNEYPOZV	
+															AINNYPPA 	
+							Press Start For Ice Dinosaur					GNEYPOZV	
+															AGNNYPPA 	
+							Press Start For Invulnerability					SVEYPOZT 	Can only use one "Press Start For ..." code at a time. This code activates permanent Honey Fairy
+							Press Start For Skateboard					GNEYPOZV	
+															APNNYPPA 	
+							Press Start For Swimming Dinosaur				GNEYPOZV	
+															AZNNYPPA 	
+							Press Start For Triceratops Dinosaur				GNEYPOZV	
+															ATNNYPPA 	
+							Start With Invincibility Shield					AAOULOAA 	
+							Start With Triceratops Dinosaur					ENVZXYEI 	
+							1 Fruit Gives 99 Lives And Lots More Points			ESNYOIEY 	
+							Don't Kick Eggs							EOVZGZEL 	
+							Makes The Score Counter Display Buggy Coordinates		EYEYVGEI 	
+							No Audio							EUSTVZEP 	
+							Remove Health Bar						ESONUIEY 	
+							Remove Lives, Points, And Fruit Counter				EYKVOYEI 	
+Adventures of Tom Sawyer (USA)				Invulnerability							ENUGYLEI 	
+Alfred Chicken (USA)					Walk On Air							ESVTZGEY 	
+Alien 3 (USA)						Stay In The Air After Jumping					EPNSTIEL 	Hold the jump button to drop back down. 
+							Walk Thru Walls							ALVUYAAP 	
+Alien Syndrome (Japan)					Round Select Enabled						EYUALLEI 	
+Amagon (USA)						Auto Shoot							EIOILGEY 	Best used with Infinite Bullets code.
+							Enemies Can't Move						EIKTTTEY 	
+							Max Jump, With Low Gravity					ESSKVZEY 	Also effects enemies.
+							No Audio							EPVETTEL 	
+Asterix (Europe) (En,Fr,De,Es,It)			All Enemies Drop Meat						AIVLULEY 	The meat will have strange graphics if the enemy does not normally drop it.
+							Cheat Menu Enabled						AANTKAPA 	
+							Enemies Can't Drop To Lower Ledges				ELVPIYEP 	
+							Enemies Can't Move Horizontally					ENUOKZEI 	
+							Enemies Die When They Touch You					GZUUVLEP 	
+							Enemies Have Hyper Animations					ESVOXZEY 	
+							Enemies Move Away From You Instead Of Towards			EYNKGZEI 	
+							Enemies Walk Slower						ANUPOZAP 	
+							Fall Slower							EUUZIGEP 	
+							Instantly Beat Stage						EIOSSIEY 	
+							Instantly Stop Walking After Letting Go Of A Direction		AIOXZYEY 	
+							Max Jump							EIOZALEY 	
+							No Enemies Or Items						EPNKPPEL 	
+							No Music							EIKELAEY 	
+							Run Much Faster							GXVXVAEY 	
+							Screen Scrolls Slower						EYUZSIEI 	
+							Stars Fall Instead Of Float					EINOZTEY 	
+							Walk Thru Walls							AIXZATAL 	
+Astyanax (USA)						Stage Select Enabled						ENNAYTEI 	
+B-Wings (Japan)						Stage Select Enabled						AAVLISYI 	Press Up or Down while on the Main Menu.
+Back to the Future Part II & III (USA)			Full Inventory							EYSUNAEI 	
+Bakushou!! Jinsei Gekijou 2 (Japan)			Sound Test Enabled						AYVEAPAP 	Use Up and Down on the Title Screen.
+Bases Loaded 4 (USA)					Boot Into The Music Test Menu					ZAXGAAAA 	
+Bashi Bazook - Morphoid Masher (USA) (Proto)		Create Platforms To Walk On As You Walk				EIKEALEY 	
+							Some Enemies Automatically Die					EIOUZPEY 	
+Batman - The Video Game (USA)				Can't Fall Off Ledges (Right Direction)				ESEOOLEY 	
+							Enemies Disappear When They Touch You				ENVPVPEI 	
+							Invulnerability							ESVOSLEY 	
+							Invulnerability (alt)						APEPNZAL 	
+							Slow Decent When Falling					AUOPLIAP 	
+Batman Returns (USA)					Stage Select							AAOKOIGA 	During gameplay, use controller 2's Left and Right directions to skip levels; up to Stage 4-1. 
+Beetlejuice (USA)					Invincibility							ENUIGTEI 	
+							Invulnerability							EYKIUZEI 	
+Bio Miracle Bokutte Upa (Japan)				Press Start For Temp Invincibility				NYVZKIPE	
+															XLVZVIGX 	
+Bionic Commando (USA)					Walk On Air							ENNZUIEI 	Must use the grappling hook to get down, or turn off the code. 
+Blaster Master (USA)					Invulnerability To Enemies					ESVSITEY 	
+							Some Enemies Automatically Die					EISZSAEY 	
+Bonk's Adventure (USA)					Slow Decent From Walking Off Ledges				ESUOUZEY 	
+							Walk Faster (Left Direction)					EPXENYEL 	
+Bram Stoker's Dracula (USA)				Automatically Attack When Jumping/Falling			EUXUTYEP 	
+							Float After Jumping						EUXUEIEP 	Press Down to fall back down. 
+							Float After Jumping (alt)					EOEUVIEL 	
+							Invulnerability							EYVLPIEI 	
+							Less Enemies							EUUVNLEP 	
+							Slow Decent From Walking Off Ledges				EIKLYYEY 	
+							Some Enemies Can't Move						EOEGETEL 	
+Bugs Bunny Birthday Blowout, The (USA)			Slow Decent After Jumping					ENXENGEI 	
+Captain America and the Avengers (USA)			Walk On Air							EINXXYEY 	
+Castlevania (USA)					Don't Get Knocked Back After Taking Damage			ENKPTTEI 	
+							Walk On Air After Jumping					ENUONTEI 	Must turn off the code to drop back down. 
+Castlevania (USA) (Rev A)				Invulnerability (Blinking)					ESNTXAEY 	
+							Walk On Air After Jumping					ENUONTEI 	Must turn off the code to drop back down.
+							Attack Crouched Down						ESXOKZEY 	
+							Don't Get Knocked Back From Taking Damage			EUSPGTEP 	
+							Don't Get Knocked Back From Taking Damage (Alt)			ENKPTTEI 	
+							Enemies Cause More Damage					EPKVAYEL 	
+							Most Enemies Count As Hearts					ANKVITEI 
+							Enemies Die Before Your Whip Actually Touches Them		EYEVLGEI 	It also makes all enemies die in one hit, includes bosses.
+							Increased Drops							ESUTIAEY 	
+							Infinite Time							ENXZYAEI 	
+							Items Don't Fall To The Ground					ESKSXIEY 	Small power hearts still goes down.
+							Killing Enemies Grants Extra Lives				ELOKOLEP 	
+							No Audio							ELOEIZEP 	
+							Some Audio Notes Are Louder					EYVEZIEI 	
+							Some Enemies Are Gold Color					EYSEGPEI 	Applies only on enemies facing to left.
+							Some Enemies Can't Move						EIOETAEY 	
+							Some Enemies Die As You Approach				EIEVGIEY 	It makes many of the enemies and even bosses to die in one hit.
+							Whip Is Invisible						APSZZGAL 	
+Castlevania II - Simon's Quest (USA)			Automatically Attack While Jumping/Falling			ESSAOPEY 	
+							Walk On Air							ANSEZTEY 	
+							Walk Thru Walls							ANVAZLEI 	
+Castlevania III - Dracula's Curse (USA)			Automatically Attack While Jumping/Falling			EINPGYEY 	
+							Shoot Projectile After Falling					EYEOXPEI 	
+Chip 'n Dale - Rescue Rangers (Europe)			Select Button Removes Enemies And Apples			EYOAUZEI 	
+							Select Button Shows Debug Mode					ENOAUPEI 	
+Chip 'n Dale - Rescue Rangers (USA)			Almost No Audio							ENOEIIEI	Don't pause the game or a sound effect will be 'stuck' playing. 
+															EYVATAEI 	
+							Almost No Enemies						ENXAZAEI 	No Zipper either. 
+							Automatically Pick Up Boxes					EIOGOLEY 	
+							Background Disappears Where You Are, 1ups Come Out		EYETXLEI 	Easy to fall to your death. 
+							Bulldogs Cant Move						EYUESYEI 	
+							Bulldogs Enemies Can't Jump Over Obstacles			ESXEUYEY 	
+							Can't Stand On Top Of Apples					ENKYGYEI 	
+							Can't Stand On Top Of Apples (alt)				ENSYGYEI 	
+							Don't Get Knocked Back From Taking Damage			ENNSAAEI 	
+							Enemies Die When They Touch You					EYKELAEI 	You take damage. 
+							Enemies Die When They Touch You (You Don't Take Damage)		EIKAGAEY 	Be careful at the boss with this code, it's better to use “Enemies Fly Off The Screen” code. 
+							Enemies Fly Off The Screen					ENVNNPEI 	Bosses wont fly off the screen, but they do get killed. Works with or without the fly powerup, and does not constantly play the Zipper tune. 
+							Getting A Flower Item Makes A 1up Appear			EYUYPGEI 	
+							Infinite Health							ENESZAEI 	
+							Invulnerable To Tops Of Cacti Plants				EYSKNPEI 	
+							No BGM, Only Sound Effects					ENEKTYEI 	Pause the game to play the BGM. 
+							No Enemies							ESOAGAEY 	No apples or Zipper either though. 
+							Reverse The Function Of The Left And Right Buttons (Enemies)	ESEEUYEY 	This makes enemies run away from you instead of towards you. 
+							Reverse The Function Of The Left And Right Buttons (Players)	ESSGOZEY 	
+							Select Button Instantly Shows Give Up Menu			ESKESPEY 	
+							Select Button Instantly Shows Give Up Menu (alt)		ESSAUPEY 	
+							Select Button Removes Enemies And Apples			EYOAUZEI 	
+							Select Button Shows Both Characters In 1P Mode			EYXEVPEI 	
+							Select Button Shows Both Characters In 1P Mode (alt)		EYUASPEI 	
+							Select Button Shows Both Characters In 1P Mode (alt2)		EIUAUPEY 	
+							Select Button Shows Debug Mode					PEOAXOGA 	The select button menu will now show where objects are, even invisible ones. The menu will use Japanese characters to show where enemies are too. When you leave the menu, enemies and apples will be removed from the screen, or either it will freeze enemies and allow you to walk thru them unharmed. And finally, leaving the menu sometimes enables x-ray vision (see powerups that are invisible or currently hidden inside boxes). 
+							Select Button Shows Give Up Menu				ENSASPEI 	
+							Slow Motion							ENUGZAEI 	
+							Slow Motion (alt)						ENXNETEI 	
+							Thrown Items Go The Opposite Direction				EYEGXTEI 	
+							Thrown Items Travel At Ground Level				ENSSAGEI 	
+							Walk Over Apples Without Jumping				EYSNAYEI 	
+							Walk Over Boxes Without Jumping					ESNVUIEY 	
+															EIXVOTEY 	
+							Walk Over Boxes Without Jumping (alt)				EIEVXTEY 	
+															EIUVXTEY 	
+							Walk Over Boxes Without Jumping (alt2)				EIOTKTEY 	
+															EIKTKTEY 	
+							Walk Thru Walls							EIEVVTEY 	
+															EIUVVTEY 	
+							Walk Thru Walls (alt)						EIOVETEY 	
+															EIKVETEY 	
+							X-Ray Vision (Items Visible Thru Boxes)				ENKESLEI 	
+							X-Ray Vision (alt)						ENSEXLEI 	
+Chip 'n Dale - Rescue Rangers 2 (USA)			Walk On Air							EOVXVZEL 	
+							Walk Thru Walls							EYUKSAEI 	
+							Walk Thru Walls (alt)						EIUKEAEY 	
+							Walk Thru Walls (alt2)						EIKGXAEY 	
+							Walk Thru Walls (alt3)						ESEGXAEY 	
+Chip to Dale no Daisakusen (Japan)			Select Button Removes Enemies And Apples			EYOAUZEI 	
+							Select Button Shows Debug Mode					ENOAUPEI 	
+Chuugoku Janshi Story - Tonfuu (Japan)			Start On Stage 2						PEKIOIAA 	
+							Start On Stage 3						ZEKIOIAA 	
+							Start On Stage 4						LEKIOIAA 	
+							Start On Stage 5						GEKIOIAA 	
+							Start On Stage 6						IEKIOIAA 	
+							Start On Stage 7						TEKIOIAA 	
+							Start On Stage 8						YEKIOIAA 	
+							Start On Stage 9						AEKIOIAE 	
+							Start On Stage 10						PEKIOIAE 	
+							Start On Stage 11						ZEKIOIAE 	
+							Start On Stage 12						LEKIOIAE 	
+							Start On Stage 13						GEKIOIAE 	
+							Start On Stage 14						IEKIOIAE 	
+							Start On Stage 15						TEKIOIAE 	
+							Display Version Info						TAKKIZAA 	Press B on the Main Menu. 
+							Music Test Mode							LAKKIZAA 	Press Start on the Main Menu. 
+							Voice Test Mode							AAKKIZAE 	Press Start on the Main Menu. 
+Chuugoku Senseijutsu (Japan)				Sound Test							EUSKVIEP 	At the Title Screen, hold Up and press B. 
+Clash at Demonhead (USA)				Walk On Air							EPNAPPEL 	
+Code Name - Viper (USA)					Don't Fall Straight Down After Walking Off Of A Ledge		ESKOZPEY 	
+							Shoot Lots Of Bullets When Jumping				EIOOYPEY 	
+Conquest of the Crystal Palace (USA)			Debug Mode							AAXIZOAA 	While playing hold the Select button and press one of the following:
+																	Right - Temporary invulnerability
+																	Left - Extra gold
+																	Up - Jumping Shoes
+																	Down - Full life
+																	Up + Right - Extra lives (up to 99)
+																	Down + Left - Power-up weapon
+																	Up + Left - Moon Mirror
+																	Down + Right - Zap energy 
+Daiku no Gen-san 2 - Akage no Dan no Gyakushuu (Japan)	Stage Select Enabled						ENXIVYEI 	
+Dig Dug II - Trouble in Paradise (USA)			Stage Select Enabled						AENGUEYA	
+															YKNGNAAA 	
+Dirty Harry (USA)					Infinite Handgun Ammo						SGVUAUVK 	
+							Invulnerability							ASKZTZEY 	
+Dr. Jekyll and Mr. Hyde (USA)				Stage Skip							KAUXIOSE 	Use the A button on controller 2 to skip to the next section. 
+DuckTales (USA)						No Audio							EYXAZAEI 	
+							No Music (Only Sound Effects)					ELNETZEP 	
+							Turn Off All Sound						EGOGTPEY 	
+							Turn Off Sound Effects						EYSNTYEI 	
+							Indian Enemies Automatically Die				ALOAPLAP 	
+							Indian Enemies Can't Jump					AUKEPLAP 	
+							Indian Enemies Don't Attempt To Throw Spears			EYXAYGEI 	
+							Indian Enemies Don't Throw Spears				ESEAPGEY 	
+							Indian Enemies Hop Around					EYXAZGEI 	
+							Indian Enemies Walk Away From You (Instead Of Towards)		ESNEGLEY 	
+							Remove Background						ESNGPAEY 	
+							Remove Bee Enemies						AUUPAPAP 	
+							Remove Bees And Most Apes					EPEUAPEL 	
+							Remove Tomato Plant Enemies					APNAAIAL 	
+							Removes Lots Of Objects						APVELTAL 	
+							Removes Some Enemies						AOXUIAAL 	
+							All Blocks Broken By Skeleton Enemies Contain Food Or Diamonds	EIOAZYEY 	
+							Immune To Skeleton Enemies (And They Act Differently)		EYUOILEI 	
+							Skeleton Enemies Can't Break Blocks				ESNEGTEY 	
+							Skeleton Enemies Can't Run					AUXPYLAP 	
+							Skeleton Enemies Die When They Break Blocks			AOEPPLAL 	
+							Skeleton Enemies Stand Up And Die				ESVPILEY 	
+							Skeleton Enemies Stand Up And Jog In Place			ESXPZLEY 	
+							All Boxes And Items Break Open/Get Destroyed On Their Own	ESNAITEY 	
+							All Characters/Enemies Are Invisible				AONAPPAL 	
+							Automatically Have Your Cane Out When Jumping			EIOVVZEY 	
+							Beat The Game							EIUSELEY 	Turn the code on and immediately back off. 
+							Bees Die Soon As They Appear					ALVOYPAP 	
+							Bees Fly Away From You						ENNPTPEI 	
+							Bees Fly Backwards						ENEPZPEI 	
+							Bees Fly Downward						ENKOYPEI 	
+							Diamonds Appear Before Walking By Them (Instead Of After)	EPSEVGEL 	
+							Diamonds Are Worth A Lot More Money				EIXENLEY 	
+							Diamonds Float							ESSENZEY 	
+							Enemies And Some Objects Are Invisible				ELEEAZEP 	
+							Enemies Behave Differently					ALEELAAP 	
+							Enemies Reappear						EYOXSYEI 	
+							First Mirror In Transylvania Takes You To The Key To Mines	EINPLAEY 	
+							Gets Items (And Receive Damage) From Anywhere			EINNAGEY 	
+							Ground Is Like Ice						ENEVYGEI 	
+							Hold Right Or Left To Automatically Cane Wack			ESSTTLEY 	
+							Immune To Tomato Plants (And They're Always Attacking)		EIVELIEY 	
+							Invulnerable To Spikes						EYEIEGEI 	
+							More Enemies							ESNLPAEY 	
+							Reverse The Function Of Left And Right Buttons			ENOTPIEI 	
+							Slow Motion							ENUKIAEI 	
+							Some Enemies Automatically Die					EIXEIZEY 	
+							Some Enemies Can't Walk						EYKAAZEI 	
+							Some Enemies Die When They Touch You				ESEYIGEY 	
+							Some Enemies Die When They Walk Into You			EYKILLEI 	Some Enemies = The gorillas that keep coming after you on the first stage. 
+							Some Enemies Don't Jump Over Obstacles				EIEYYZEY 	
+							Some Enemies Run Away From You Instead Of Towards You		EIEAALEY 	
+							Taking Damage Does Not Knock You Back				EYUVKLEI 	
+							Tomato Plants Die Soon As They Appear				EINELIEY 	
+							Walk Over Some Objects Without Having To Jump			EYVSPZEI 	
+							Walk Up/Pass Thru Some Objects (Right Direction)		EIXVATEY 	
+Famista '90 (Japan)					Boot Game Into Test Mode					LEXVZTPE 	
+Famista '91 (Japan)					Boot Game Into Test Menu					GPUTGVTO 	
+Famista '92 (Japan)					Boot Game Into Test Menu					GPOYSYAE 	
+Felix the Cat (USA)					Enemies Fall Thru The Floor, Or Float In The Air		EINPPIEY 	
+							Enemies Get Stuck In Place When Trying To Turn Around		EIXPYIEY 	
+							Enemy Death Worth Higher Score					EUNSVIEP 	
+							Max Score After Enemy Death					EUVSUIEP 	
+							No Sound Effects						ELEEATEP 	
+							Walk Thru Walls							AYOIPPEI	
+															AYXSZPEI 	
+							Weapon Has Longer Reach						AONEXTAL 	
+Fighting Road (Japan)					Debug Mode Enabled						EUXGSTEP 	Pause the game and use one of the following
+																	A - Toggle player's invulnerability
+																	B - Toggle enemy's invulnerability
+																	Select - Instant enemy death
+																	Up - Restore player's health
+																	Down - Fill power bar
+																	Left - Restore enemy's health 
+							Infinite Health							ASEIATAL 	
+Flintstones, The - The Rescue of Dino & Hoppy (USA)	Debug Options							PEOEITAA 	Press Start on the Title Screen to enable. You will be invulnerable and start with all abilities. The abilities are free, but you still need enough coins to use them. 
+							Don't Lose Flying Ability When You Touch The Ground		KEUOXXSE 	You will also gain the flying ability when you touch the ground after using the Jump ability. 
+							Gain A Coin For The Maximum Amount				AESTTZZA 	
+Flintstones, The - The Surprise at Dinosaur Peak! (USA)	Debug Options							PANAKPAA 	Press Start on the Title Screen to enable. You will be invulnerable and can skip stages by pressing Up on the second controller. 
+G.I. Joe - A Real American Hero (USA)			Stage Skip Enabled						ESKELAEY 	Left + A + B - Automatically finish the current level. 
+Getsu Fuuma Den (Japan)					Have All Weapons						PEXUKLYA 	
+Guardian Legend, The (USA)				Boot Into The Sound Test					AAKATLTA 	
+Gun Nac (USA)						Invulnerability							AAKZAAIA 	
+Gun.Smoke (USA)						Have A Wanted Poster						AESYEAIA 	
+							Aim Bullets With D-Pad						AENVVSIA 	
+							Hard Mode (Many More Enemies)					AAXYNYGL 	
+							Stage Skip							LKNNPZAU 	Pause the game twice to automatically beat the current stage. 
+							Stops Screen Scrolling						EYXTVPEI 	Turn off the code to return to normal movement.
+Hook (USA)						World Map Open							PAOPUPAA 	Select a destination on the map, then press B to go there instantly. 
+Adventure Island, Hudson's (USA)			Can Run Into Some Snails Without Dying				APVKLAAL 	Running into rocks will kill you.
+							Infinite Health							ENUGLAEI 	
+							Infinite Health (Alternate)					ENUKLAEI 	
+							Lose Health Faster						AUKGPAAP 	
+							Pause The Game To Enable Invulnerability			INVEGOKZ 	Can only use one "pause the game" code.
+							Touching Obstacles And Enemies Kills Them			EISKIAEY 	A power-up also appears after their death. You must avoid touching every boss on end of every area #-4 or the game will not continue. This code is best used with nolberto82's "Beat Boss Automatically" code. 
+							Touching Obstacles And Enemies Kills Them (Alt)			EYVGYAEI 	
+							Always Have A Projectile					ANKAYYEY 	
+							Get Items From Anywhere						EPUEOLEL 	
+							Have Skateboard							EYOEYTEI 	Likely best used with "Have Skateboard Movement" code.
+							Hold A To Continue Throwing Projectiles				AEVAPNUY 	
+							Items Don't Disappear Without Being Picked Up			EIUEVLEY 	
+							Milk Container Inside Of Egg Instead Of Axe			ENNZKLEI 	
+							Pause The Game For A Skateboard					TVVEGOKX 	Can only use one "pause the game" code. 
+							Pause The Game For Axes						IVVEGOKX 	
+							Pause The Game For Fire						ZEVEZPPA	
+															IVVEGOKX 	
+							Powerups Are Worth More Points					ESXEKLEY 	
+							Powerups Are Worth More Points (Alternate)			ANXEKLEY 	
+							Receive Powerup Inside Of Egg Without Having To Pick It Up	EUEXSGEP 	
+							Skateboard In Egg Instead Of Axe				ESNXELEY 	
+							Start With Axe, Axe Powerup Gives Skateboard			ESUAIAEY 	
+							Start With Skateboard						EYOEYTEI 	
+							Screen Semi-Auto Scrolls					EYOUEIEI 	
+							Walk To The Right To Beat The Round				EOXLOLEL 	
+							Instantly Stop After Letting Go Of Left Or Right		ALXEIIAP 	
+							Keep Running After Releasing Right Or Left			EISEZIEY 	
+							Character Is Invisible						AONAZIAL 	
+							Enemies Die Soon As They Appear					EPXPZZEL 	
+							Have Skateboard Movement					EYSAIIEI 	Might need to be disabled on areas with moving platforms. 
+							Invisible Health Bar						AOUAVAAL 	
+							Mostly No Music							ALXKEPAP 	
+							No Music							EOKKKAEL 	
+							Points Continue Rising From Powerups Until You Move		AIOAOLEY 	
+							Snail Enemies Don't Move (Horizontally)				EPOPGTEL 	
+							Tops Of Trees Are Red Instead Of Green				EPNUSYEL 	
+Incredible Crash Dummies, The (USA)			Stage Select							AEKZYVZP 	On the Title Screen, press Start ten times to enter the stage select menu. 
+Insector X (Japan)					Invincibility							ENKAEAEI 	
+Isolated Warrior (USA)					Invulnerability							AAESYGLA	
+															EOXATGEL 	
+							Max Weapon Powerup						AEETYXLA 	
+Jikuu Yuuden - Debias (Japan)				Debug Menu							AASUNZYA 	From the Main Menu, choose Continue and then press the Start button.
+																	ST - Stage number.
+																	SC - Scene number.
+																	FL - Debug flags.
+																	The debug flags can be combined, and are as follows:
+																	80 - Purpose unknown.
+																	10 - Full life-bar.
+																	08 - Extra 1000 Gold.
+																	04 - All Weapons/Items, Extra 80 Tech.
+																	01 - Infinite life. 
+Jungle Book, The [Disney's] (USA)			Can Stand Inside Of Pits Without Falling In			AEOAKXPA 	
+							Infinite Health							ASVIAGAY 	
+Juuouki (Japan)						Start On Stage Of Choice					AAEIZTYA 	Once the text “Push Start Button” is shown and the color blinking stops, press the Select button to increase the number of the stage to start on. One press = start on stage 2, 7 times for stage 8 etc. There are only 8 stages. 
+Kaiketsu Yancha Maru 3 - Taiketsu! Zouringen (Japan)	Stage Select Enabled						OZUGLNPX 	
+Kamen Rider Club (Japan)				Debug Options Enabled						AAUYIXPG 	Pause, then press Up for money, Select to skip stages and A to enter battle mode. 
+Kick Master (USA)					Character Level Modifier					EYEUTYEI 	Go to Options, then Password and choose End. Pause the game and use the B button to increase your level. 
+							Stage & Round Select						EYXUZYEI 	Go to Options, then Password and choose End. If the “Character Level Modifier” code is enabled, this will not work. 
+King Kong 2 - Ikari no Megaton Punch (Japan)		Invulnerability							AEXENNZA 	
+							Stage Skip							AEVTVTLZ	Press Select to skip to the next stage.
+															NNVVETVY	
+															AXVVXTEA 	
+Legend of Prince Valiant, The (Europe)			Disable Death From Attacks					NYSIPIAE 	
+							Infinite Health							SZSIZISA 	
+							Infinite Lives							XTKTGYVK	
+															XTKTIYNN 	
+Lion King, The [Disney's] (Europe)			Stage Skip							EIUEGYEY 	While the game is paused, press the B button.
+Little Ninja Brothers (USA)				Any Random Full Password Counts As Sound Test Password		EYXLNAEI 	
+Lupin Sansei - Pandora no Isan (Japan)			Invulnerability							OXVKPEPX 	
+Magic Candle, The (Japan)				Debug Options Enabled						AENKEAII 	Using controller 2, press A to level up; and B to gain 1,000 gold. 
+Mega Man (USA)						Extra Lives Drop From Enemy Kills				EOXGYIEL 	
+							Enemies Slow Down Directly Beside You				ENSZKZEI 	
+							No Audio							EINKLGEY 	
+							No Music (Only Sound Effects)					ELNPLZEP 	
+							Remove Health Bar and Score					APNIZLAL 	
+							Some Enemies Fall Down Thru The Floor				EUXLOTEP 	
+Mega Man 2 (USA)					Enemies Come After You More Aggressively			EOKNIPEL 	
+							Enemies Move Away From You (Vertically)				ELKYLZEP 	
+							More Enemies							ALONGAAP 	
+							More Enemies (Alt)						APXYLAAL 	It removes some enemies from some areas from every stage. 
+							After Jumping, You Fall Down Slower (And Can Walk In Air)	EPKAEGEL 	Can't stay on moving platforms normally, though. It should be used with Invincibility to avoid instant death from Laser Beams in Quick Man's stage since you you can't escape from them quickly with this code. 
+							Dropped Items From Enemies Float				ESSUSGEY 	
+							One Bullet Can Kill Multiple Enemies				EINIEZEY 	
+							Enemies Automatically Die					EUSTSTEP 	
+							No Audio							EYXAZAEI 	
+							Skip READY Dialog At Beginning Of Stage				EYSAIPEI 	
+Mega Man 3 (USA)					Extra Lives Drop From Enemy Kills				ELNLXYEP 	
+							Extra Lives Drop From Enemy Kills (Alt)				ENNYSGEI 	
+							Invulnerability							ESUAGAEY 	
+							Invulnerability (Alt)						EISKKIEY 	
+							Invulnerability (Alt 2)						ESOEGAEY 	
+							Slow Decent When Falling					APESZAAL 	Hold the jump button to fall at regular speed. 
+							The Longer You Hold Jump, The Higher You Go			EIKGOLEY 	
+							The Longer You Hold Jump, The Higher You Go (Alt)		ENUGOTEI 	
+							The Longer You Hold Jump, The Higher You Go (Alt 2)		EYUIAAEI 	It gives you slower falling after jumping. 
+							Automatically Shoot When Jumping				ESSILAEY 	
+							Hit Anywhere							EOVNNLEL 	
+							Hold B For Rapid-Fire						ENEGUIEI 	
+							Backgrounds Don't Animate					EYSEYIEI 	
+							One Hit Kills							EOKEPPEL 	
+							Visually Walk Behind Backgrounds				EYOYZYEI 	
+Mega Man 4 (USA)					Invulnerability							ESSAPAEY 	
+							Walk Behind Backgrounds						ENNGYTEI 	
+							Hyper Speed Music						AUVEALAP 	
+							No Sound Effects						ELXAZYEP 	
+							No Sound Effects (Alt)						EISAGZEY 	
+							Color Beams Are Easier To Walk Across				EOONOPEL 	Ring Man Stage for the “Color Beams”
+							Color Beams Are Harder To Walk Across				AOSXLAAL 	
+							Color Beams Do Not Move When Standing On Them			ALXXTAAP 	
+							Color Beams Do Not Move When Standing On Them (Alt)		EOXNUPEL 	
+							Color Beams Do Not Move When Standing On Them (Alt 2)		EPXZYAEL 	
+							Color Beams Do Not Move When Standing On Them (Alt 3)		EIOZAPEY 	
+							Color Beams Do Not Move When Standing On Them (Alt 4)		ENEYOPEI 	
+							Automatically Shoot						EIUAUIEY 	Turn off to climb ladders.
+							Hit Almost Anywhere						EOXNSZEL 	
+							One Hit Kills							EPUALLEL 	
+							One Shot Can Kill Multiple Enemies (And Takes Less Shots)	ESNAGZEY 	
+							Shoot A Normal And Charged Shot At The Same Time		EUOAGAEP 	
+							Enemies Don't Shoot						EYNYVLEI 	
+							Slow Motion							ENNKTAEI 	
+							Stage Backgrounds Are Dark					EIXVGGEY 	
+							Takes Less Shots To Kill Enemies				ASNEAZEY 	
+Mega Man 5 (USA)					Invulnerability							ESKATZEY 	Spikes still kill you.
+	 						Invulnerability (Alt)						ENEEZAEI 	Spikes still kill you.
+							Invulnerability (Alt 2)						ENKEGZEI 	Spikes still kill you.
+							The Longer You Hold Jump, The Higher You Go			ANVOPTEI 	
+							Automatically Charge Up For Stronger Shots			EYOOTPEI 	
+							Normal Shots Are Charged, Charged Shots Are Normal		EUKOZPEP 	
+							One Shot Can Kill Multiple Enemies				ESVATPEY 	
+							One Shot Can Kill Multiple Enemies (Alternate)			ESVEZPEY 	
+							Shoot Once, And A Charged Shot Follows				EYKOTPEI 	
+							Your Bullets Travel Lower And Faster				EYOOAZEI 	
+							After Killing An Enemy, Your Bullet Travels Diagonally		ESNAPPEY 	
+							Enemies Automatically Die As You Approach			EPNATAEL 	An annoying sound effect will often play though.
+							Hyper Music							AUVEALAP 	
+							No Music							APXEYYAL 	
+							No Sound Effects						ELUAIPEP 	
+							No Walking Animation						ESEELPEY 	
+							Pause The Game To Gain A Hit Point				ELOALEPI 	Can only use one "Pause The Game" code.
+							Pause The Game To Gain A Life					NLOALEPS 	
+							Slow Motion							EISGZYEY	
+Mega Man 6 (USA)					Invulnerability							EYNEEYEI 	
+							Invulnerability (Alt)						EYNAKYEI 	
+							The Longer You Hold Jump, The Higher You Go			ANSEGTEI 	
+							No Enemies Or Powerups						EOKAYPEL 	
+							Auto Charge Up Shots						EYUATTEI 	
+							Don't Slide On Ice						AIOANLEI 	
+							No Enemies Or Powerups (Alt)					EIUETPEY 	
+							No Music							APXETYAL 	
+							Walrus Enemies Can't Shoot					AOSPEGAL 	
+Mendel Palace (USA)					Invulnerability							EASXLPAA 	
+Mouryou Senki Madara (Japan)				Sound Test							GESAATPX 	
+Ms. Pac-Man (USA)					Ghost Stay Blue Until Eaten					SGVIOLVG 	
+							Infinite Lives							XTKGEVEE 	
+Musashi no Bouken (Japan)				Sound Test							PAXLSYGE 	Press Select on the Title Screen when the text Push Start is showing.
+Over Horizon (Europe)					Samurai Graphics Mode						ESOIPTEY 	
+Pac-Man (USA) (Namco)					Ghost Stay Blue Until Eaten					VVUIAPVG 	
+Pinball Quest (USA)					Infinite Balls							AAUENAPA 	
+Power Blade (USA)					Sound Test Mode							IPKYYVGA 	Press Start on the Title Screen.
+Power Blade 2 (USA)					Sound Test Mode							AXVVESAZ 	Press Start on the Title Screen.
+President no Sentaku (Japan)				View The Ending							TANKPOGA 	Press Start on the Main Menu.
+Pro Sport Hockey (USA)					Boot Into The Music Test Menu					IEEOLVIO 	
+Quarter Back Scramble (Japan)				Sound Test							AEUEAPIP 	
+Rad Racer II (USA)					Start On Stage 2						PAVKPZAA 	
+							Start On Stage 3						ZAVKPZAA 	
+							Start On Stage 4						LAVKPZAA 	
+							Start On Stage 5						GAVKPZAA 	
+							Start On Stage 6						IAVKPZAA 	
+							Start On Stage 7						TAVKPZAA 	
+							Start On Stage 8						YAVKPZAA 	
+Rampage (USA)						Day Select Enabled						PEVNGXNY 	
+Robin Hood - Prince of Thieves (USA) (Rev A)		Press Select To Toggle Debug Mode				AEUTSLTA 	When Debug Mode is enabled, you can walk through walls, have infinite HP and warp anywhere. The menu will replace the normal menu displayed when you press Start, until you disable Debug Mode 
+Robo Warrior (USA)					Theme Song Menu Enabled						AAVZNOZP	It's on the Title Screen, the graphics inside the room are messed up, but it's still functional. 
+															LAOXTYZA 	
+RoboCop versus The Terminator (USA) (Proto)		Invulnerability							ESNVLAEY 	
+Rollerball (USA)					Infinite Balls							SIKGPXVS 	
+Rush'n Attack (USA)					Always Have Grenades						AIUAKIEI 	
+Silver Surfer (USA)					Invulnerability							AEKINLPA 	
+Splatter House - Wanpaku Graffiti (Japan)		Debug Menu							AEVXVTZE 	Choose START on the Title Screen.
+Summer Carnival '92 - Recca (Japan)			Change Limit Menu Enabled					AAOSIKAP 	
+							Invulnerability							AVNEGSEA 	
+							Sound Test Menu Enabled						AASSAKTA 	
+Super Mario Bros. (World)				Enemies Are Bullet Bill						ENKTEAEI 	
+							Enemies Are Glitchy Looking Bowsers				ESNTSAEY 	
+							Enemies Are Headless Bowser					EYNOLAEI 	
+							Enemies Are Upside Down						ENVVOAEI 	
+							Enemies Are Upside Down (Alt)					EIVTNZEY 	
+							Enemies Fall Thru The Floor					ENEKEZEI 	
+							Enemies Look Like Spring Boards					ENSTNAEI 	
+							Enemies Walk Thru Objects And Walk On Air			ENKISYEI 	
+							No Enemies							EYKKLPEI 	
+							No Enemies (Alt)						ENOGAPEI 	
+							No Enemies (alt 2)						ESVGLPEY 	
+							Always Walk Slowly						EIULPIEY 	
+							Always Walk Slowly (Right Direction)				EYVUAIEI 	Walks like when you enter the pipe after beating first stage.
+							Jump Like You're Crouching					EYEYGAEI 	
+							Jump Like You're Swimming					ENNVSYEI 	
+							Swim On Land							EYSPAPEI 	
+							Walk On Air (After Jumping)					EYESNIEI 	Must turn off the code to drop back down.
+							Walk On Air After Jumping (alt)					ESXIUYEY 	Must turn off the code to drop back down.
+							Walk Thru Enemies						EYOIVPEI 	
+							Walk Thru Enemies (alt)						EYXSNPEI 	
+							Black Background Is Blue Sky					EYOEGTEI 	
+							Blocks Turn Invisible After Hitting Them			ESVLETEY 	
+							Breakable Blocks Are Clouds					EIUPKZEY 	
+							Remove Background Objects (Everything except the sky)		EIOPPGEY 	
+							The Ground Is Clouds						ESEPGGEY 	
+							Automatically Shoot Fireballs (Unless holding B)		EIXUYTEY 	
+							Fireballs Don't Bounce						ENSVTPEI 	
+							Invincibility Star Does Not Bounce				ESOUUGEY 	Instead of being stationary, the Firepower Plant moves like Mushroom Powerups
+							Invincibility Star Moves Horizontally				EINTGPEY 	
+							Invincibility Star Stay's Put					ENOUNGEI 	
+							Invincibility Stars Give Extra Live Instead			EIOIKAEY 	
+							Powerups Don't Fall						ESVSKYEY 	
+							Powerups Don't Move						ENOLUGEI 	
+							Powerups Don't Move (alt)					ESOLNGEY 	
+							Powerups Move Slower After Bouncing Off Of An Object		EYUTIPEI 	
+							Infinite Time							EISLZYEY 	
+							Air Bubbles Come Out Of Mario					EYNLPTEI 	
+							Automatically Jump On Enemies					EYOIOPEI 	
+							Can Continue Jumping On A Squished Enemy (Easy 1ups)		ESXSOAEY 	
+							Can Continue Jumping On A Squished Enemy (alt)			ESUISAEY 	
+							Disable Audio							ENSYLZEI 	
+							Enemies And Powerups Can't Move					EIOTIPEY 	
+							Enemies That Fall From One Platform To A Lower One Die		ENEVTAEI 	
+							Jumping On An Enemy Gives You Points, But Does Not Kill Them	ESETGAEY 	
+							Jumping On Enemies Are Worth 1000 Points			ENOIKPEI 	
+							Little Mario Wears Fire Suit, Fire Mario Wears Normal Suit	EYEAZTEI 	
+							Look Like Luigi Until You Get Firepower				ESNEPIEY 	
+							Start Off As Big Mario And Mushrooms Make You Small		ESOYGAEY 	This is only a visual mod.
+							Walking Into Enemies Kills Them, Jumping On Them Hurts You	ENNSSAEI 	
+							When Hit As Big Mario, You Die Instead Of Shrink		EIUIKPEY 	
+Super Mario Bros. + Duck Hunt (USA)			Air Bubbles Come Out Of Mario					EYNLPTEI 	
+							All ? Boxes Give 1ups						ESNUUIEY 	
+							All Blocks Give Coins						EYULOTEI 	
+							Always Run							EYKLLIEI 	
+							Always Walk Slowly						EIULPIEY 	
+							Always Walk Slowly (Right Direction)				EYVUAIEI 	Walks like when you enter the pipe after beating first stage. 
+							Automatically Jump On Enemies					EYOIOPEI 	
+							Automatically Shoot Fireballs (Unless holding B)		EIXUYTEY 	
+							Black Background Is Blue Sky					EYOEGTEI 	
+							Blocks Turn Invisible After Hitting Them			ESVLETEY 	
+							Breakable Blocks Are Clouds					EIUPKZEY 	
+							Can Continue Jumping On A Squished Enemy (Easy 1ups)		ESXSOAEY 	
+							Can Continue Jumping On A Squished Enemy (alt)			ESUISAEY 	
+							Change Stage Layout						ENVOLIEI 	
+							Demo Mode							PENEGZAA 	Press Start on the Title Screen to immediately start playing, as if you were controlling the demo player. 
+							Disable Audio							ENSYLZEI 	
+							Double Mushroom Enemies Are Super Fast				EYKKALEI 	
+							Double Mushroom Enemies Are The Black Beetles			EIXKLYEY 	
+							Enemies And Powerups Cant Move					EIOTIPEY 	
+							Enemies Are (Glitchy Looking) Bowsers				ESNTSAEY 	
+							Enemies Are (Headless) Bowser					EYNOLAEI 	
+							Enemies Are Bullet Bill						ENKTEAEI 	
+							Enemies Are Powerups, Powerups Are Enemies (Not Visually)	ENEISAEI 	
+							Enemies Are That Mushroom Guy					ENUTKAEI 	
+							Enemies Are Upside Down						ENVVOAEI 	
+							Enemies Are Upside Down (Alt)					EIVTNZEY 	
+							Enemies Can't Move (Unless you're grabbing a powerup)		ENNKSAEI 	
+							Enemies Die When They Touch You					ESESSAEY 	
+							Enemies Don't Die When You Jump On Them				ENVIOYEI 	Also, Powerups Don't Fall
+							Enemies Don't Die When You Jump On Them (Alt)			EYNTGAEI 	Enemies can Walk Thru Objects and Powerups Fall Down Fast 
+							Enemies Fall Thru The Floor					ENEKEZEI 	
+							Enemies Fall Thru The Floor And Powerups Don't Fall		EYNKSZEI 	
+							Enemies Look Like Spring Boards					ENSTNAEI 	
+							Enemies That Fall From One Platform To A Lower One Die		ENEVTAEI 	
+							Enemies Walk Thru Objects And Walk On Air			ENKISYEI 	
+							Falling Into Pits Takes You Inside Of Pipes			ENOLZPEI 	
+							Fireballs Don't Bounce						ENSVTPEI 	
+							Going Down The Very First Pipe Takes You To A Far Away Land	EYUKIZEI 	
+							Going Down The Very First Pipe Takes You To World 3-1		EIESNYEY 	
+							Infinite Time							EISLZYEY 	
+							Instantly Go Down Pipes						EYEUTZEI 	
+							Invincibility Star Does Not Bounce				ESOUUGEY 	Also, Firepower Plant Moves Like Mushroom Powerups
+							Invincibility Star Moves Horizontally				EINTGPEY 	
+							Invincibility Star Stay's Put					ENOUNGEI 	
+							Invincibility Stars Give Extra Live Instead			EIOIKAEY 	
+							Invulnerability (Walk Thru Enemies)				ENOSSAEI 	
+							Jump Like You're Crouching					EYEYGAEI 	
+							Jump Like You're Swimming					ENNVSYEI 	
+							Jump Thru Blocks						ESUINGEY 	
+							Jumping On An Enemy Gives You Points, But Does Not Kill Them	ESETGAEY 	
+							Jumping On Enemies Are Worth 1000 Points			ENOIKPEI 	
+							Jumping On Enemies Causes Them To Instantly Disappear		ENVKSZEI 	
+							Little Mario Wears Fire Suit, Fire Mario Wears Normal Suit	EYEAZTEI 	
+							Look Like Luigi Until You Get Firepower				ESNEPIEY 	
+							No Enemies							EYKKLPEI 	
+							No Enemies (Alt)						ENOGAPEI 	
+							No Enemies (Alt. 2)						ESVGLPEY 	
+							Pipes, Trees, Shrubs and Hills Are Red Instead Of Green		EYKEATEI 	
+							Powerups Don't Fall						ESVSKYEY 	
+							Powerups Don't Move						ENOLUGEI 	
+							Powerups Don't Move (alt)					ESOLNGEY 	
+							Remove Background Objects (Everything except the sky.)		EIOPPGEY 	
+							Shoot 2 Fireballs At Once					EYULLTEI 	
+							Single Mushroom Enemies Are The Black Beetles			EIEGGZEY 	
+							Squished Enemies Can Get Back Up				ENNGUZEI 	
+							Squished Mushrooms Can Be Kicked Like Turtle Shells		ESSIOAEY 	
+							Start Off As Big Mario And Mushrooms Make You Small		ESOYGAEY 	This is only a visual mod. 
+							Swim On Land							EYSPAPEI 	
+							The Ground Is Clouds						ESEPGGEY 	
+							Turtles Are 'That Mushroom Guy'					EYOTEZEI 	
+							Vines Grow Inside And Outside Pipes After Going Thru Them	ESOOZPEY 	
+							Walk On Air (After Jumping)					EYESNIEI 	Must turn off the code to drop back down. 
+							Walk On Air After Jumping (alt)					ESXIUYEY 	Must turn off the code to drop back down. 
+							Walk Thru Enemies						EYOIVPEI 	
+							Walk Thru Enemies (alt)						EYXSNPEI 	
+							Walk Thru Enemies And Powerups					EYVVTZEI 	
+							Walk Thru Enemies And Powerups (alt)				EYVIEAEI 	
+							Walk Thru Objects (Right Direction)				ENOSOIEI 	
+							Walk Thru Walls, Pipes Etc.					ESOSNIEY 	
+							Walking Into Enemies Kills Them, Jumping On Them Hurts You	ENNSSAEI 	
+							When Hit As Big Mario, You Die Instead Of Shrink		EIUIKPEY 	
+							World Select							EIVEYZEY 	Press B on the Title Screen to change your starting world. 
+Super Mario Bros. 3 (USA)				Can't Jump On Enemies						EYSSLZEI 	
+							Can't Jump On Enemies (alt)					EYNSZZEI 	
+							Can't Kick Turtle Shells					EYOGXLEI 	
+							Enemies Don't Rise In The Air After Hitting Them With Your Tail	ESUSTAEY 	
+							Jumping On A Turtle Once Causes The Shell To Float		EIOKVLEY 	
+							Jumping On A Turtle Once Kills It				ESEIZZEY 	
+							Jumping On A Turtle Once Kills It (alt)				EIESPLEY 	
+							Jumping On Enemies Automatically Kicks It			ENXIAZEI 	Non turtles will turn into a bullet :-)
+							Kicked Turtle Shells Fly Straight				EINKNGEY 	
+							Kicking A Turtle Shell Kills It					EIESSGEY 	
+							Piranha Plants Don't Shoot Fireballs				EYSGYGEI 	
+							Piranha Plants Don't Shoot Fireballs (alt)			EYULVZEI 	
+							Piranha Plants Don't Shoot Fireballs (alt2)			EIKKGGEY 	
+							Piranha Plants Don't Shoot Fireballs (alt3)			EINXXYEY 	
+							Piranha Plants' Fireballs Fall Straight Down			EIELKZEY 	
+							Piranha Plants Quickly Go Into The Pipe				EYEXUAEI 	Without Shooting Any Fireballs
+							Piranha Plants Shoot 2 Fireballs				ENNZTYEI 	
+							Piranha Plants Shoot 3 Fireballs				EYEZUAEI 	
+							Remove Almost All Enemies					EIOLVPEY 	Also removes the lifts in stage 4 :-( and the fire stuff in the castle :-) 
+							Remove Piranha Plants						EYSXVAEI 	
+							Winged Mushroom Enemy Can't Fly					ENNXETEI 	
+							Winged Mushroom Enemy Can't Fly (alt)				ESKXVTEY 	
+							Winged Mushroom Enemy Can't Move Horizontally			EIOZSYEY 	
+							Winged Mushroom Enemy Goes Opposite Direction			ENOXNTEI 	
+							Winged Turtles Only Hop Slightly				ESNUYLEY	
+							Invulnerable To Fireballs					EYOUEAEI 	
+							Invulnerable To Fireballs (alt)					EYOUNAEI 	
+							Invulnerable To Most Damage					AIVIPLEI 	Does not protect against fireballs, and maybe other hazards. 
+							After Filling Meter, Can Keep Flying				ESKXPGEY 	
+							After Jumping, Fall Very Slowly					EYNLLIEI 	
+							Auto Walk							ENXXVLEI 	
+							Can Always Slowly Fall, Even Without A Tail			ANVZSGEY 	You also have the ability to fly, no matter what suit you're wearing. 
+							Charge P Meter Up, And It Stays Full				XVSZPKEE 	When you're finished flying and touch the ground, the meter returns to normal behavior. 
+							Float Up Automatically						EYVXPAEI 	Turn off the code to drop back down.
+							If You're Raccoon Mario, You Fall Slower After Jumping		ESVXOGEY 	
+							Walk Thru Walls							EINULGEY 	Do not jump or you will pass thru the floor. Turn the code on only when needed. 
+							Remove Big Green 'Trees'					ESSGXLEY 	
+							Can Keep Hitting ? Coin Boxes					EYOUIYEI 	Disables the ability to get powerup from ? boxes. 
+							Fireballs Hit You And Do No Damage				EYUUOAEI 	
+							Infinite Time As Statue for Tanooki Suit			SKNZSNVK 	
+							Mushroom Powerup Is Leaf, Leaf Powerup Is Mushroom		EIELUAEY 	
+							Press Select To Change Current Powerup Ability			EYXXUTEI 	
+							Press Select To Change Suits					AAXXKVLZ 	
+							Shoot Fireballs Without Firepower				EYKXYZEI 	You can shoot fireballs while having a raccoon tail, but can't shoot fireballs as Fire Mario. 
+							Shoot Fireballs Without Firepower (alt)				EIKXLZEY 	All powerup Mario's can shoot fireballs except Hammer Mario. 
+							Always Face Right Direction					EYOZKTEI 	
+							Always Face Right Direction (alt)				EIOXXTEY 	
+							Background Is Black, HUD Spins					EINEUYEY 	
+							Beat The First Stage To Beat The Whole Game			ESVAOYEY 	
+							Big Mario Walks Without Moving His Legs				ESXUIAEY 	
+							Enemies Instantly Disappear After Hitting Them With Your Tail	EIXIZAEY 	
+							Faster Animation From Small To Big Mario			ESXZVAEY 	
+							Gain Lots More Points Than Usual				ENSZKZEI 	
+							Get 1up At End Of Stage						ESSUUGEY 	
+							Go In A Pipe, Come Out The Other Side (Instead Of Going Inside)	EIXUSYEY 	
+							Instantly Beat Stage						ESEEKYEY 	
+							Instantly Go Inside Of Pipes					EYNIPLEI 	
+							Instantly Go To The Map After Falling Into A Pit		ENNSPTEI 	
+							Jog In Place							EYEZNTEI 	
+							Jog In Place (alt)						EYEXUTEI 	
+							Jumping On Enemies Causes Them To Instantly Disappear		ENNILZEI 	
+							Keep Gaining Score Quickly					ENKZTPEI 	
+							Look Like You Have Invincibility Star				ENSKXTEI 	
+							Mario is Crouched						EYUZPYEI 	
+							Mario Is Gray							EYKXTIEI 	
+							Mario Slides Around On His Butt					ESXZSTEY 	
+							Move Fast (Right Direction)					EYXZSPEI 	
+							Mushroom Powerup Moves Like In Water				ESSGTTEY 	
+							Mushroom Powerup Quickly Comes Out The Bottom Of The ? Box	EISZNAEY 	
+							Mushroom Powerup Stays Put					EYNXKAEI 	
+							Powerup Comes Out Of The Bottom Of ? Boxes Instead Of Top	ENVXEAEI 	
+							Powerup Has Low Gravity Fall					EINZVPEY 	
+							Powerup Moves On Air						EIVXVPEY 	
+							Powerups Go Thru Scenery/Walls					ESXKGYEY 	
+							Raccoon Mario Walks Without Moving His Legs			EIKLLAEY 	
+							Raccoon Tail Leaf Is Green Instead Of Brown			ESKZSLEY 	
+							Running Animation In Air					ENOZXPEI 	
+							Running Animation In Air (alt)					EIXXUGEY 	
+							Slide Around Super Fast						ENUXSLEI 	
+							Swim On Land							EISZOPEY 	
+							Tail Spin Makes Mario Spin More Times				EYELPPEI 	
+							Tail Spin Makes Mario Spin More Times (alt)			ESNUIAEY 	
+							Turtle Shells Are Automatically Grabbed, But Can't Be Thrown	EYUGSTEI 	
+							Turtle Shells Bounce Off Of ? Blocks				ENUGOGEI 	
+							Turtle Shells Can't Be Squished					EYXILPEI 	Easy 1ups If you keep jumping on them for the points. 
+							Turtle Shells Do Not Bounce Off Of ? Blocks			ENVKNGEI 	
+							Visually Remove Wings From Winged Turtles			EIULAIEY 	
+							Walk Backwards							EYXZETEI 	
+							Walk Thru Enemies And Powerups					ESEGVPEY 	
+							Walk Thru Enemies And Powerups (alt)				EYSIEAEI 	
+Super Mario Bros. 3 (USA) (Rev A)			Always Have Firepower						AYKXYZEI 	All suits allow you to throw fireballs except Hammer Mario. 
+							Always Swim							AYSZOPEY 	
+							Can Always Slowly Fall, Even Without A Tail			ANVZSGEY 	You also have the ability to fly, no matter what suit you're wearing. 
+							Charge P Meter Up, And It Stays Full				XVSZPKEE 	When you're finished flying and touch the ground, the meter returns to normal behavior. 
+							Don't Slowly Fall After Flying					AENXNKTA 	With this, you can maintain your vertical position by using your tail while in the air. 
+							Infinite Item Usage						OLUXYVOO 	
+							Infinite Time As Statue Mario					SKNZSNVK 	
+							Invulnerable To Fireballs					EYOUEAEI 	
+							Invulnerable To Most Damage					AIVIPLEI 	Does not protect against fireballs, and maybe other hazards. 
+							Press Select To Change Suits					AAXXKVLZ 	
+Super Xevious - Gump no Nazo (Japan)			Password Menu							YOVZYTZY	Pause the game, then press Select to bring up the secret password menu. Here's the accepted passwords:
+															GEVXPTPA	Level 2 - 6974
+															ESNZZTEY 	Level 3 - 1797
+																	Level 4 - 5328
+																	Level 5 - 3580
+																	Level 6 - 6541
+																	Level 7 - 3024 
+Taito Chase H.Q. (Japan)				Stage Skip							AZOZIGPZ	Press Start to beat the current level. 
+															APOZYGKI 	
+Tecmo Super Bowl (USA)					Sound Test							AZSEYAZG 	At the Title Screen, press Select.
+Tecmo World Wrestling (USA)				Sound Test							AZSSAUXT 	At the Title Screen, press Select.
+Teenage Mutant Ninja Turtles (USA)			Infinite Health							ESSOEAEY 	
+							Invincible To Electric Seaweed					ESKZAIEY 	
+							Invulnerability							ENOPLYEI 	Turn off to enter the van. 
+							Invulnerability (alt)						ESOOUAEY 	
+							Mount Ladders Automatically					ENXPVYEI 	
+							Mount Ladders Automatically (alt)				ESXPXYEY 	
+							Walk Faster							EIVXPYEY 	
+							Walk Thru Walls							ESUONIEY 	
+															ESEPNIEY 	
+							Walk Without Moving Your Legs					EIUXZTEY 	
+							Walk Without Moving Your Legs (alt)				EIKZZTEY 	
+							Automatically Attack As You Walk				EIUPXIEY 	
+							Automatically Attack When An Enemy Runs Into You		ESUZLAEY 	
+							Automatically Attack When Jumping/Falling			ESKPEYEY 	
+							Enemies And Projectiles Are Frozen In Place			EIEVEYEY 	
+							Enemies Die When They Touch You					EIEPVPEY 	You take damage. 
+							Infinite Time Underwater					EISZEPEY 	Turn off when end of underwater 
+							No Enemies (Or Items)						ESSVVTEY 	
+							Projectile Throwing Enemies Don't Crouch To Become Untouchable	ENEPPLEI 	
+Teenage Mutant Ninja Turtles II - The Arcade Game (USA)	Both Players Can Select The Same Turtle				EIUPAGEY 	
+							Infinite Health							ENNTSLEI 	
+Tetris 2 (USA)						Boot Into A CHR Viewer						GAUKLVZE 	
+Thunder & Lightning (USA)				Always Have 3 Balls						PXVKASNY	Can only use one of the 4 'Always Have' codes at a time.
+															AEVKLIYA	
+															ZVVKZIKV 	
+							Always Have Long Paddle						GEVKASNY 	Can only use one of the 4 'Always Have' codes at a time.
+															AEVKLIYA 	
+															ZVVKZIKV 	
+							Always Have Missiles						LKVKASNY	Can only use one of the 4 'Always Have' codes at a time.
+															AEVKLIYA	
+															ZVVKZIKV 	
+							Always Have Sticky Paddle					OEVKASNY	Can only use one of the 4 'Always Have' codes at a time.
+															AEVKLIYA	
+															ZVVKZIKV 	
+							Always Have Big Ball						EYEXSTEI 	
+							Always Have Big Ball Properties					ENUUGGEI 	
+							Always Have Big Ball Properties (Alt)				EYSUYGEI 	
+							Ball Travels Faster						EYNXIAEI 	
+							Hit Anywhere							ESKOUPEY 	
+							Hit The Powerup Ship From Anywhere				ELVOKPEP 	
+							Instantly Clear The Current Stage				ENSXGAEI 	
+							Instantly Clear The Current Stage (Alt)				ENSPSYEI 	
+							Powerup Enemy Always Drops Items				ELVPNPEP 	
+							Powerup Enemy Stays Stationary					ESXZUPEY 	
+							Right Side Of Your Paddle Hits Anywhere				EINONPEY 	Only works if the ball fell on Player's paddle or onto a place located right of player's location. 
+							Run Faster							EYSXVGEI 	
+							Start With Longer Paddle					GANPVIPA 	
+							Start With Three Balls						EIVZSTEY 	
+							Watch The Stage Complete Itself					EUUOXAEP 	Your paddle can't hit ball back upwards as it passes through paddle, but after falling off screen it comes back from top side of field, so you can't die from ball loss. Power-ups are still collectable though. 
+Tiny Toon Adventures (USA)				Invulnerability							EYSEGPEI 	
+Titan (Japan)						Sound Test							EIOGVPEY 	
+Tokoro-san no Mamoru mo Semeru mo (Japan)		Infinite Life							OEKESLEA 	
+Top Gun - The Second Mission (USA)			Hit Anywhere							GXVUILEL	
+															GXNULLEL 	
+Top Rider (Japan)					Enable Controller Use						VAOPKOSE 	Reset after turning on the code. You can now play the game with a standard controller. 
+Toxic Crusaders (USA)					Automatically Attack While Jumping				ENULZYEI 	
+							Enemies Are Frozen In Place					EYXSVAEI 	
+							Enemies Automatically Die					ENOEOAEI 	
+							Invincibility							EYOINTEI 	
+							Invulnerability To Enemies					ENUSVZEI 	
+							Lose Health Without Losing Mop					EYXLUAEI 	
+							Throw Projectiles? (Need To Have Mop)				ESNVGGEY 	
+							View Ending							YEEZGAPA 	Start a new game to view the ending. After that you will be inside the debug menu. 
+TwinBee 3 - Poko Poko Daimaou (Japan)			Music Test							ESKEIAEY 	Select the last option on the Title Screen.
+Ultimate Air Combat (USA)				Ultimate Cheat Screen						AESXOPTP 	Enter the password menu. Choose at least one character, such as P, and then choose the Enter option. 
+Vegas Connection - Casino kara Ai o Komete (Japan)	Boot Into The Sound Test					ESOTTGEY 	
+Wagyan Land 2 (Japan)					Invulnerability							EYNLEPEI 	
+World Boxing (Japan)					Debug Mode							AASAISLA 	At the Title Screen; hold A+B and press Start.
+Wrath of the Black Manta (USA) (Rev A)			Enemies Are Frozen In Place					ENSZGTEI 	
+							Infinite Health							SXVLNUVK 	
+Wurm - Journey to the Center of the Earth! (USA)	Boot Into The Sound Test					AEVIPZGA 	
+							Invincibility							ENNKGTEI 	
+Xevious (Japan) (En) (Rev 1)				Debug Mode							ESNNSGEY 	Press A (or B) 22 times on the second controller, directly after booting the game. A set of zero's will appear at the top right corner of the Title Screen. 
+							Invulnerability							AAONUGEA 	
+Yoshi's Cookie (USA)					Boot Into The Debug Menu					ZONKIAPE 	
+Youkai Douchuuki (Japan)				Boot Into The Test Mode						ENEKXAEI 	
