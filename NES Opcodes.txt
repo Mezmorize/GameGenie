@@ -1,0 +1,79 @@
+﻿0x00 = BRK		BReaK						0x20 = JSR $5597	Jump to SubRoutine – Absolute
+0x01 = ORA ($44,X)	bitwise OR with Accumulator – Indirect,X	0x21 = AND ($44,X)	bitwise AND with accumulator – Indirect,X
+0x04 			[Not Used]					0x24 = BIT $44		test BITs - Zero Page
+0x05 = ORA $44		bitwise OR with Accumulator - Zero Page		0x25 = AND $44		bitwise AND with accumulator - Zero Page
+0x06 = ASL $44		Arithmetic Shift Left - Zero Page		0x26 = ROL $44		ROtate Left - Zero Page
+0x08 = PHP		PusH Processor status 				0x28 = PLP		PuLl Processor status 
+0x09 = ORA #$44		bitwise OR with Accumulator – Immediate		0x29 = AND #$44		bitwise AND with accumulator – Immediate
+0x0A = ASL A		Arithmetic Shift Left – Accumulator		0x2A = ROL A		ROtate Left – Accumulator
+0x0C 			[Not Used]					0x2C = BIT $4400	test BITs – Absolute
+0x0D = ORA $4400	bitwise OR with Accumulator – Absolute		0x2D = AND $4400	bitwise AND with accumulator – Absolute
+0x0E = ASL $4400	Arithmetic Shift Left – Absolute		0x2E = ROL $4400	ROtate Left – Absolute
+0x10 = BPL		Branch on PLus 					0x30 = BMI		Branch on MInus 
+0x11 = ORA ($44),Y	bitwise OR with Accumulator – Indirect,Y	0x31 = AND ($44),Y	bitwise AND with accumulator – Indirect,Y
+0x15 = ORA $44,X	bitwise OR with Accumulator - Zero Page,X	0x35 = AND $44,X	bitwise AND with accumulator - Zero Page,X
+0x16 = ASL $44,X	Arithmetic Shift Left - Zero Page,X		0x36 = ROL $44,X	ROtate Left - Zero Page,X
+0x18 = CLC		CLear Carry 					0x38 = SEC		SEt Carry 
+0x19 = ORA $4400,Y	bitwise OR with Accumulator – Absolute,Y	0x39 = AND $4400,Y	bitwise AND with accumulator – Absolute,Y
+0x1D = ORA $4400,X	bitwise OR with Accumulator – Absolute,X	0x3D = AND $4400,X	bitwise AND with accumulator – Absolute,X
+0x1E = ASL $4400,X	Arithmetic Shift Left – Absolute,X		0x3E = ROL $4400,X	ROtate Left – Absolute,X
+0x40 = RTI		ReTurn from Interrupt				0x60 = RTS		ReTurn from Subroutine
+0x41 = EOR ($44,X)	bitwise Exclusive OR – Indirect,X		0x61 = ADC ($44,X)	ADd with Carry – Indirect,X
+0x45 = EOR $44		bitwise Exclusive OR - Zero Page		0x65 = ADC $44		ADd with Carry - Zero Page
+0x46 = LSR $44		Logical Shift Right - Zero Page			0x66 = ROR $44		ROtate Right - Zero Page
+0x48 = PHA		PusH Accumulator 				0x68 = PLA		PuLl Accumulator 
+0x49 = EOR #$44		bitwise Exclusive OR – Immediate		0x69 = ADC #$44		ADd with Carry – Immediate
+0x4A = LSR A		Logical Shift Right – Accumulator		0x6A = ROR A		ROtate Right – Accumulator
+0x4C = JMP $5597	JuMP – Absolute					0x6C = JMP ($5597)	JuMP – Indirect
+0x4D = EOR $4400	bitwise Exclusive OR – Absolute			0x6D = ADC $4400	ADd with Carry – Absolute
+0x4E = LSR $4400	Logical Shift Right – Absolute			0x6E = ROR $4400	ROtate Right – Absolute
+0x50 = BVC		Branch on oVerflow Clear 			0x70 = BVS		Branch on oVerflow Set 
+0x51 = EOR ($44),Y	bitwise Exclusive OR – Indirect,Y		0x71 = ADC ($44),Y	ADd with Carry – Indirect,Y
+0x55 = EOR $44,X	bitwise Exclusive OR - Zero Page,X		0x75 = ADC $44,X	ADd with Carry - Zero Page,X
+0x56 = LSR $44,X	Logical Shift Right - Zero Page,X		0x76 = ROR $44,X	ROtate Right - Zero Page,X
+0x58 = CLI		CLear Interrupt 				0x78 = SEI		SEt Interrupt 
+0x59 = EOR $4400,Y	bitwise Exclusive OR – Absolute,Y		0x79 = ADC $4400,Y	ADd with Carry – Absolute,Y
+0x5D = EOR $4400,X	bitwise Exclusive OR – Absolute,X		0x7D = ADC $4400,X	ADd with Carry – Absolute,X
+0x5E = LSR $4400,X	Logical Shift Right – Absolute,X		0x7E = ROR $4400,X	ROtate Right – Absolute,X
+0x80 			[Not Used]					0xA0 = LDY #$44		LoaD Y register – Immediate
+0x81 = STA ($44,X)	STore Accumulator – Indirect,X			0xA1 = LDA ($44,X)	LoaD Accumulator – Indirect,X
+0x82 			[Not Used]					0xA2 = LDX #$44		LoaD X register – Immediate
+0x84 = STY $44		STore Y register - Zero Page			0xA4 = LDY $44		LoaD Y register - Zero Page
+0x85 = STA $44		STore Accumulator - Zero Page			0xA5 = LDA $44		LoaD Accumulator - Zero Page
+0x86 = STX $44		STore X register - Zero Page			0xA6 = LDX $44		LoaD X register - Zero Page
+0x88 = DEY		DEcrement Y 					0xA8 = TAY		Transfer A to Y 
+0x89 			[Not Used]					0xA9 = LDA #$44		LoaD Accumulator – Immediate
+0x8A = TXA		Transfer X to A 				0xAA = TAX		Transfer A to X 
+0x8C = STY $4400	STore Y register – Absolute			0xAC = LDY $4400	LoaD Y register – Absolute
+0x8D = STA $4400	STore Accumulator – Absolute			0xAD = LDA $4400	LoaD Accumulator – Absolute
+0x8E = STX $4400	STore X register – Absolute			0xAE = LDX $4400	LoaD X register – Absolute
+0x90 = BCC		Branch on Carry Clear 				0xB0 = BCS		Branch on Carry Set 
+0x91 = STA ($44),Y	STore Accumulator – Indirect,Y			0xB1 = LDA ($44),Y	LoaD Accumulator – Indirect,Y
+0x94 = STY $44,X	STore Y register - Zero Page,X			0xB4 = LDY $44,X	LoaD Y register - Zero Page,X
+0x95 = STA $44,X	STore Accumulator - Zero Page,X			0xB5 = LDA $44,X	LoaD Accumulator - Zero Page,X
+0x96 = STX $44,Y	STore X register - Zero Page,Y			0xB6 = LDX $44,Y	LoaD X register - Zero Page,Y
+0x98 = TYA		Transfer Y to A 				0xB8 = CLV		CLear oVerflow 
+0x99 = STA $4400,Y	STore Accumulator – Absolute,Y			0xB9 = LDA $4400,Y	LoaD Accumulator – Absolute,Y
+0x9A = TXS		Transfer X to Stack ptr 			0xBA = TSX		Transfer Stack ptr to X 
+0x9C 			[Not Used]					0xBC = LDY $4400,X	LoaD Y register – Absolute,X
+0x9D = STA $4400,X	STore Accumulator – Absolute,X			0xBD = LDA $4400,X	LoaD Accumulator – Absolute,X
+0x9E 			[Not Used]					0xBE = LDX $4400,Y	LoaD X register – Absolute,Y
+0xC0 = CPY #$44		ComPare Y register – Immediate			0xE0 = CPX #$44		ComPare X register – Immediate
+0xC1 = CMP ($44,X)	CoMPare accumulator – Indirect,X		0xE1 = SBC ($44,X)	SuBtract with Carry – Indirect,X
+0xC4 = CPY $44		ComPare Y register - Zero Page			0xE4 = CPX $44		ComPare X register - Zero Page
+0xC5 = CMP $44		CoMPare accumulator - Zero Page			0xE5 = SBC $44		SuBtract with Carry - Zero Page
+0xC6 = DEC $44		DECrement memory - Zero Page			0xE6 = INC $44		INCrement memory - Zero Page
+0xC8 = INY		INcrement Y 					0xE8 = INX		INcrement X 
+0xC9 = CMP #$44		CoMPare accumulator – Immediate			0xE9 = SBC #$44		SuBtract with Carry – Immediate
+0xCA = DEX		DEcrement X 					0xEA = NOP		No OPeration
+0xCC = CPY $4400	ComPare Y register – Absolute			0xEC = CPX $4400	ComPare X register – Absolute
+0xCD = CMP $4400	CoMPare accumulator – Absolute			0xED = SBC $4400	SuBtract with Carry – Absolute
+0xCE = DEC $4400	DECrement memory – Absolute			0xEE = INC $4400	INCrement memory – Absolute
+0xD0 = BNE		Branch on Not Equal 				0xF0 = BEQ		Branch on EQual 
+0xD1 = CMP ($44),Y	CoMPare accumulator – Indirect,Y		0xF1 = SBC ($44),Y	SuBtract with Carry – Indirect,Y
+0xD5 = CMP $44,X	CoMPare accumulator - Zero Page,X		0xF5 = SBC $44,X	SuBtract with Carry - Zero Page,X
+0xD6 = DEC $44,X	DECrement memory - Zero Page,X			0xF6 = INC $44,X	INCrement memory - Zero Page,X
+0xD8 = CLD		CLear Decimal 					0xF8 = SED		SEt Decimal 
+0xD9 = CMP $4400,Y	CoMPare accumulator – Absolute,Y		0xF9 = SBC $4400,Y	SuBtract with Carry – Absolute,Y
+0xDD = CMP $4400,X	CoMPare accumulator – Absolute,X		0xFD = SBC $4400,X	SuBtract with Carry – Absolute,X
+0xDE = DEC $4400,X	DECrement memory – Absolute,X			0xFE = INC $4400,X	INCrement memory – Absolute,X
