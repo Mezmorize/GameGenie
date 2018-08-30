@@ -1,0 +1,1181 @@
+64 Hanafuda: Tenshi no Yakusoku (Japan)
+	64 Hanafuda - Tenshi no Yakusoku (Japan)
+	F10796D0 2400
+
+007: The World Is Not Enough [Expansion Pak]
+	007 - The World Is Not Enough (Europe) (En,Fr,De)
+	F10A97E0 2400
+
+	007 - The World Is Not Enough (USA) (Beta)
+	F10A53A0 2400
+
+	007 - The World Is Not Enough (USA)
+	F10A9240 2400
+
+Aidyn Chronicles: The First Mage [Expansion Pak]
+	Aidyn Chronicles - The First Mage (Europe)
+	F10B870C 2400
+	F10B81EC 2400
+	F10B81F8 2400
+
+	Aidyn Chronicles - The First Mage (USA) (Rev A)
+	F10B848C 2400
+	F10B7F6C 2400
+	F10B7F78 2400
+
+	Aidyn Chronicles - The First Mage (USA)
+	F10B849C 2400
+	F10B7F7C 2400
+	F10B7F88 2400
+
+All-Star Baseball 2000 [Expansion Pak]
+	All-Star Baseball 2000 (Europe)
+	F103DDE0 2400
+	F121B980 2400 [*]
+	F131EBF0 2400 [*]
+
+	All-Star Baseball 2000 (USA)
+	F103DE78 2400
+
+All-Star Baseball 2001 (USA) [Expansion Pak]
+	All-Star Baseball 2001 (USA)
+	F103B0B0 2400
+	F121A5F0 2400
+	F131D628 2400 [*]
+
+Armorines: Project S.W.A.R.M. [Expansion Pak]
+	Armorines - Project S.W.A.R.M. (Europe)
+	F10A928C 2400
+	F100108C 2400
+	F17A1AC8 2400
+	F10A8D6C 2400
+	F10A8D78 2400
+
+	Armorines - Project S.W.A.R.M. (Germany)
+	F10A8D2C 2400
+	F100108C 2400
+	F17A1998 2400
+	F10A880C 2400
+	F10A8818 2400
+
+	Armorines - Project S.W.A.R.M. (USA)
+	F10A929C 2400
+	F100108C 2400
+	F17A1AC8 2400
+	F10A8D7C 2400
+	F10A8D88 2400
+
+Asteroids Hyper 64 (USA)
+	Asteroids Hyper 64 (USA)
+	F105865C 2400
+	F105813C 2400
+	F1058148 2400
+
+Bass Rush: ECOGEAR PowerWorm Championship (Japan)
+	Bass Rush - ECOGEAR PowerWorm Championship (Japan)
+	F1056790 2400
+
+Batman Beyond: Return of the Joker
+	Batman Beyond - Return of the Joker (USA)
+	F11942C0 2400
+
+	Batman of the Future - Return of the Joker (Europe) (En,Fr,De)
+	F11942C0 2400
+
+Battlezone: Rise of the Black Dogs (USA) [Expansion Pak]
+	Battlezone - Rise of the Black Dogs (USA)
+	F103ED4C 2400
+	F103E82C 2400
+	F103E838 2400
+
+Big Mountain 2000
+	Big Mountain 2000 (USA)
+	F13175B8 2400
+	F135D038 2400
+
+	Snow Speeder (Japan)
+	F1316F48 2400
+	F1358668 2400
+
+Bomber Man 64 (Japan)
+	Bomber Man 64 (Japan)
+	F1238C70 2400
+
+Bomberman 64
+	Baku Bomber Man (Japan)
+	F1297414 2400
+	F1297424 2400
+
+	Bomberman 64 (Europe)
+	F1297D14 2400
+	F1297D24 2400
+
+	Bomberman 64 (USA)
+	F1297D14 2400
+	F1297D24 2400
+
+Bomberman 64: The Second Attack!
+	Baku Bomber Man 2 (Japan)
+	F1071F24 2400
+	F1071F34 2400
+
+	Bomberman 64 - The Second Attack! (USA)
+	F1073ED4 2400
+	F1073EE4 2400
+
+Brunswick Circuit Pro Bowling (USA)
+	Brunswick Circuit Pro Bowling (USA)
+	F1056F5C 2400
+	F1056A3C 2400
+	F1056A48 2400
+
+Buck Bumble
+	Buck Bumble (Europe) (En,Fr,De,Es,It)
+	F104BC88 2400
+
+	Buck Bumble (Japan)
+	F1049838 2400
+
+	Buck Bumble (USA)
+	F1049828 2400
+
+Bust-A-Move '99
+	Bust-A-Move 3 DX (Europe)
+	F108352C 2400
+	F108300C 2400
+	F1083018 2400
+
+	Bust-A-Move '99 (USA)
+	F108351C 2400
+	F1082FFC 2400
+	F1083008 2400
+
+	Puzzle Bobble 64 (Japan)
+	F10836AC 2400
+	F108318C 2400
+	F1083198 2400
+
+Carmageddon 64
+	Carmageddon 64 (Europe) (En,Fr,De,Es)
+	F100D4CC 2400
+	F100CFAC 2400
+	F100CFB8 2400
+
+	Carmageddon 64 (Europe) (En,Fr,Es,It)
+	F100D44C 2400
+	F100CF2C 2400
+	F100CF38 2400
+
+	Carmageddon 64 (USA)
+	F100E04C 2400
+	F100DB2C 2400
+	F100DB38 2400
+
+Command & Conquer [Expansion Pak]
+	Command & Conquer (Europe) (En,Fr)
+	F1070F6C 2400
+	F1070A4C 2400
+	F1070A58 2400
+
+	Command & Conquer (Germany)
+	F1070DEC 2400
+	F10708CC 2400
+	F10708D8 2400
+
+	Command & Conquer (USA)
+	F107093C 2400
+	F107041C 2400
+	F1070428 2400
+
+Cruis'n Exotica (USA)
+	Cruis'n Exotica (USA)
+	F1047A00 2400
+
+Custom Robo (Japan)
+	Custom Robo (Japan)
+	F105F0B0 2400
+
+Custom Robo V2 (Japan)
+	Custom Robo V2 (Japan)
+	F105ED10 2400
+
+CyberTiger
+	CyberTiger (Europe)
+	F10B6620 2400
+
+	CyberTiger (USA)
+	F10B6410 2400
+
+Densha de Go! 64 (Japan)
+	Densha de Go! 64 (Japan)
+	F105BD20 2400
+
+Derby Stallion 64
+	Derby Stallion 64 (Japan) (Beta)
+	F10CCF10 2400
+
+	Derby Stallion 64 (Japan)
+	F10F5F90 2400
+
+Destruction Derby 64
+	Destruction Derby 64 (Europe) (En,Fr,De)
+	F10BEA48 2400
+
+	Destruction Derby 64 (USA)
+	F10B8A68 2400
+
+Diddy Kong Racing
+	Diddy Kong Racing (Europe) (En,Fr,De) (Rev A)
+	F1070D1C 2400
+	F1070D24 2400
+
+	Diddy Kong Racing (Europe) (En,Fr,De)
+	F1070ADC 2400
+	F1070AE4 2400
+
+	Diddy Kong Racing (Japan)
+	F1070BBC 2400
+	F1070BC4 2400
+
+	Diddy Kong Racing (USA) (En,Fr) (Rev A)
+	F1070D1C 2400
+	F1070D24 2400
+
+	Diddy Kong Racing (USA) (En,Fr)
+	F1070ADC 2400
+	F1070AE4 2400
+
+Doraemon 3: Nobita no Machi SOS! (Japan)
+	Doraemon 3 - Nobita no Machi SOS! (Japan)
+	F1060490 2400
+
+Doubutsu no Mori (Japan)
+	Doubutsu no Mori (Japan)
+	F103B950 2400
+
+Dr. Mario 64 (USA)
+	Dr. Mario 64 (USA)
+	F100D2E0 2400
+
+Dragon Sword 64 (USA) (Proto)
+	Dragon Sword 64 (USA) (Proto)
+	F10C1010 2400
+
+Excitebike 64 [Expansion Pak]
+	Excitebike 64 (Europe)
+	F10B7600 2400
+
+	Excitebike 64 (Japan)
+	F100C530 2400
+
+	Excitebike 64 (USA) (Demo) (Kiosk)
+	F100C620 2400
+
+	Excitebike 64 (USA) (Rev A)
+	F10B76C0 2400
+
+	Excitebike 64 (USA)
+	F10B7D20 2400
+
+Famista 64 (Japan)
+	Famista 64 (Japan)
+	F1085B38 2400
+
+Fighter Destiny 2
+	Fighter Destiny 2 (USA)
+	F10282B0 2400
+
+Frogger 2 (USA) (Rev A) (Proto)
+	Frogger 2 (USA) (Rev A) (Proto)
+	F11052CC 2400
+	F1104DAC 2400
+	F1104DB8 2400
+
+Fushigi no Dungeon: Fuurai no Shiren 2: Oni Shuurai! Shiren Jou! (Japan)
+	Fushigi no Dungeon - Fuurai no Shiren 2 - Oni Shuurai! Shiren Jou! (Japan)
+	F1032240 2400
+
+Glover 2
+	Glover 2 (USA) (Proto) (early)
+	F11C17CC 2400
+	F11C12AC 2400
+	F11C12B8 2400
+
+	Glover 2 (USA) (Proto)
+	F11B120C 2400
+	F11AE980 2400
+	F11B0CEC 2400
+	F11B0CF8 2400
+
+GT64: Championship Edition
+	City-Tour GP - Zen-Nihon GT Senshuken (Japan)
+	F11EDE00 2400
+
+	GT64 - Championship Edition (Europe) (En,Fr,De)
+	F11F26A8 2400
+
+	GT64 - Championship Edition (USA)
+	F11F06C8 2400
+
+Hamster Monogatari 64 (Japan)
+	Hamster Monogatari 64 (Japan)
+	F1054A50 2400
+
+Hey You, Pikachu!
+	Hey You, Pikachu! (USA)
+	F1057550 2400
+
+Hot Wheels: Turbo Racing
+	Hot Wheels - Turbo Racing (USA)
+	F10E4D20 2400
+
+Hydro Thunder [Expansion Pak]
+	Hydro Thunder (Europe)
+	F12500C0 2400
+
+	Hydro Thunder (France)
+	F12500C0 2400
+
+	Hydro Thunder (USA)
+	F124FFA0 2400
+
+In-Fisherman: Bass Hunter 64
+	In-Fisherman - Bass Hunter 64 (Europe)
+	F1039B9C 2400
+	F103967C 2400
+	F1039688 2400
+
+	In-Fisherman - Bass Hunter 64 (USA)
+	F10323CC 2400
+	F1031EAC 2400
+	F1031EB8 2400
+
+International Superstar Soccer 2000 [Expansion Pak]
+	International Superstar Soccer 2000 (Europe) (En,De)
+	F1067850 2400
+
+	International Superstar Soccer 2000 (Europe) (Fr,It)
+	F1067870 2400
+
+	International Superstar Soccer 2000 (USA) (En,Es)
+	F1066FD0 2400
+
+	Jikkyou J.League 1999 - Perfect Striker 2 (Japan) (Rev A)
+	F1068010 2400
+
+	Jikkyou J.League 1999 - Perfect Striker 2 (Japan)
+	F1068010 2400
+
+International Track & Field 2000 [Expansion Pak]
+	Ganbare! Nippon! Olympics 2000 (Japan)
+	F102A9A0 2400
+
+	International Track & Field - Summer Games (Europe) (En,Fr,De)
+	F102AA80 2400
+
+	International Track & Field 2000 (USA)
+	F102AA40 2400
+
+Jeremy McGrath Supercross 2000 [Expansion Pak]
+	Jeremy McGrath Supercross 2000 (Europe)
+	F1015884 2400
+
+	Jeremy McGrath Supercross 2000 (USA)
+	F1015884 2400
+	F1189BF4 2400
+
+Jikkyou Powerful Pro Yakyuu 2000
+	Jikkyou Powerful Pro Yakyuu 2000 (Japan) (Rev A)
+	F10260B0 2400
+
+	Jikkyou Powerful Pro Yakyuu 2000 (Japan)
+	F10260C0 2400
+
+Jikkyou Powerful Pro Yakyuu Basic Ban 2001
+	Jikkyou Powerful Pro Yakyuu Basic Ban 2001 (Japan) (Rev A)
+	F1026040 2400
+
+	Jikkyou Powerful Pro Yakyuu Basic Ban 2001 (Japan)
+	F10260B0 2400
+
+John Romero's Daikatana [Expansion Pak]
+	John Romero's Daikatana (Europe) (En,Fr,De)
+	F118FB80 2400
+
+	John Romero's Daikatana (Japan)
+	F118FB80 2400
+
+	John Romero's Daikatana (USA)
+	F1192B80 2400
+
+Ken Griffey Jr.'s Slugfest (USA) [Expansion Pak]
+	Ken Griffey Jr.'s Slugfest (USA)
+	F1061910 2400
+	F1061914 2400
+
+Legend of Zelda, The: Majora's Mask [Expansion Pak Required]
+	Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Debug Version)
+	F109F220 2400
+
+	Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev A)
+	F10969C0 2400
+
+	Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es)
+	F1096880 2400
+
+	Legend of Zelda, The - Majora's Mask (Europe) (GameCube Edition)
+	F1096E80 2400
+
+	Legend of Zelda, The - Majora's Mask (USA) (Demo)
+	F1096D80 2400
+
+	Legend of Zelda, The - Majora's Mask (USA) (GameCube Edition)
+	F1096E80 2400
+
+	Legend of Zelda, The - Majora's Mask (USA)
+	F1096820 2400
+
+	Zelda no Densetsu - Mujura no Kamen (Japan) (GameCube Edition)
+	F1096E80 2400
+
+	Zelda no Densetsu - Mujura no Kamen (Japan) (Rev A)
+	F1097720 2400
+
+	Zelda no Densetsu - Mujura no Kamen (Japan)
+	F10977E0 2400
+	F1081B40 2400 [*]
+	F1081B44 2400 [*]
+
+Legend of Zelda, The: Ocarina of Time
+	Legend of Zelda, The - Ocarina of Time (Europe) (GameCube Edition)
+	F1005FB0 2400
+
+	Legend of Zelda, The - Ocarina of Time (USA) (GameCube Edition)
+	F1005FB0 2400
+
+	Zelda no Densetsu - Toki no Ocarina GC (Japan) (GameCube Edition)
+	F1005FB0 2400
+
+Legend of Zelda, The: Ocarina of Time: Master Quest
+	Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (GameCube Edition)
+	F1005FB0 2400
+
+	Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (Debug Version)
+	F1009310 2400
+
+	Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (GameCube Edition)
+	F1005FB0 2400
+
+	Zelda no Densetsu - Toki no Ocarina GC Ura (Japan) (GameCube Edition)
+	F1005FB0 2400
+
+Major League Baseball featuring Ken Griffey Jr.
+	Major League Baseball featuring Ken Griffey Jr. (Australia)
+	F1025F60 2400
+	F1025F64 2400
+
+	Major League Baseball featuring Ken Griffey Jr. (USA)
+	F1025F30 2400
+	F1025F34 2400
+
+Mario Golf
+	Mario Golf (Europe)
+	F10B1920 2400
+
+	Mario Golf (USA)
+	F10B1670 2400
+
+	Mario Golf 64 (Japan) (Rev A)
+	F10ABE90 2400
+
+	Mario Golf 64 (Japan)
+	F10ABE70 2400
+
+Mario Party 2
+	Mario Party 2 (Europe) (En,Fr,De,Es,It)
+	F10AD690 2400
+
+	Mario Party 2 (Japan)
+	F10ADE50 2400
+
+	Mario Party 2 (USA)
+	F10ADD80 2400
+
+Mario Party 3
+	Mario Party 3 (Europe) (En,Fr,De,Es)
+	F1082330 2400
+
+	Mario Party 3 (Japan)
+	F1080410 2400
+
+	Mario Party 3 (USA)
+	F10824D0 2400
+
+Mega Man 64
+	Mega Man 64 (USA) (Beta)
+	F10A3930 2400
+	F1167300 2400
+
+	Mega Man 64 (USA)
+	F10A1680 2400
+	F1164C90 2400
+
+	Rockman Dash - Hagane no Boukenshin (Japan)
+	F10A1340 2400
+	F116CD60 2400
+
+Midway's Greatest Arcade Hits: Volume 1 (USA)
+	Midway's Greatest Arcade Hits - Volume 1 (USA)
+	F105A8B0 2400
+
+NBA in the Zone '99
+	NBA in the Zone 2 (Japan)
+	F11D9088 2400
+
+	NBA in the Zone '99 (USA)
+	F11D83E8 2400
+
+	NBA Pro 99 (Europe)
+	F11D8088 2400
+
+NBA in the Zone 2000
+	NBA in the Zone 2000 (Europe)
+	F1022860 2400
+	F11F4708 2400
+
+	NBA in the Zone 2000 (USA)
+	F1022C60 2400
+	F11F4A28 2400
+
+NBA Jam 2000 [Expansion Pak]
+	NBA Jam 2000 (Europe)
+	F100888C 2400
+	F1302E44 2400
+	F1008364 2400
+	F1302924 2400
+	F1008370 2400
+	F1302930 2400
+
+	NBA Jam 2000 (USA)
+	F100888C 2400
+	F1302E44 2400
+	F1008364 2400
+	F1302924 2400
+	F1008370 2400
+	F1302930 2400
+
+Neon Genesis Evangelion (Japan)
+	Neon Genesis Evangelion (Japan)
+	F10C7930 2400
+
+New Tetris, The
+	New Tetris, The (Europe)
+	F10A3794 2400
+	F10A3778 2400
+	F10A3784 2400
+	F10A37A0 2400
+
+	New Tetris, The (USA)
+	F10A32E4 2400
+	F10A32C8 2400
+	F10A32D4 2400
+	F10A32F0 2400
+
+NFL Blitz: Special Edition (USA)
+	NFL Blitz - Special Edition (USA)
+	F1041CAC 2400
+	F104178C 2400
+	F1041798 2400
+
+NFL Blitz 2001 (USA)
+	NFL Blitz 2001 (USA)
+	F1041CAC 2400
+	F104178C 2400
+	F1041798 2400
+
+NFL QB Club 2001 (USA) [Expansion Pak]
+	NFL QB Club 2001 (USA)
+	F1030E74 2400
+
+NFL Quarterback Club 2000 [Expansion Pak]
+	NFL Quarterback Club 2000 (Europe)
+	F1032364 2400
+
+	NFL Quarterback Club 2000 (USA)
+	F10389D4 2400
+
+NFL Quarterback Club 99 [Expansion Pak]
+	NFL Quarterback Club 99 (Europe)
+	F1021BBC 2400
+
+	NFL Quarterback Club 99 (USA)
+	F1021BBC 2400
+
+Nushi Zuri 64: Shiokaze ni Notte (Japan)
+	Nushi Zuri 64 - Shiokaze ni Notte (Japan)
+	F10426E0 2400
+
+Ogre Battle 64: Person of Lordly Caliber
+	Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev A)
+	F109A4F0 2400
+
+	Ogre Battle 64 - Person of Lordly Caliber (USA) (Rev A)
+	F109A730 2400
+
+	Ogre Battle 64 - Person of Lordly Caliber (USA)
+	F109A730 2400
+
+Paper Mario
+	Mario Story (Japan)
+	F106C690 2400
+
+	Paper Mario (Europe) (En,Fr,De,Es)
+	F106D650 2400
+
+	Paper Mario (USA)
+	F106C6B0 2400
+
+PD Ultraman Battle Collection 64 (Japan)
+	PD Ultraman Battle Collection 64 (Japan)
+	F109FBB0 2400
+
+PGA European Tour
+	PGA European Tour (USA)
+	F105333C 2400
+	F1052E1C 2400
+	F1052E28 2400
+
+	PGA European Tour Golf (Europe) (En,Fr,De,Es,It)
+	F10535AC 2400
+	F105308C 2400
+	F1053098 2400
+
+Pokemon Snap
+	Pokemon Snap (Australia)
+	F103D760 2400
+
+	Pokemon Snap (Europe)
+	F103D5A0 2400
+
+	Pokemon Snap (France)
+	F103D5A0 2400
+
+	Pokemon Snap (Germany)
+	F103D5A0 2400
+
+	Pokemon Snap (Italy)
+	F103D5A0 2400
+
+	Pokemon Snap (Spain)
+	F103D5A0 2400
+
+	Pokemon Snap (USA)
+	F103D8A0 2400
+
+	Pokemon Snap Station (USA) (Promo)
+	F103D8A0 2400
+
+Pokemon Stadium
+	Pokemon Stadium (Europe) (Rev A)
+	F100B7D0 2400
+	F100B7D4 2400
+
+	Pokemon Stadium (Europe)
+	F100B7B0 2400
+	F100B7B4 2400
+
+	Pokemon Stadium (France)
+	F100B7D0 2400
+	F100B7D4 2400
+
+	Pokemon Stadium (Germany)
+	F100B7D0 2400
+	F100B7D4 2400
+
+	Pokemon Stadium (Italy)
+	F100B7D0 2400
+	F100B7D4 2400
+
+	Pokemon Stadium (Spain)
+	F100B7D0 2400
+	F100B7D4 2400
+
+	Pokemon Stadium (USA) (Rev A)
+	F100B7D0 2400
+	F100B7D4 2400
+
+	Pokemon Stadium (USA) (Rev B)
+	F100B7F0 2400
+	F100B7F4 2400
+
+	Pokemon Stadium (USA)
+	F100B7D0 2400
+	F100B7D4 2400
+
+	Pokemon Stadium 2 (Japan)
+	F100B410 2400
+	F100B414 2400
+
+Pokemon Stadium (Japan)
+	Pokemon Stadium (Japan)
+	F10093C0 2400
+	F10093C4 2400
+
+Pokemon Stadium 2 [Expansion Pak]
+	Pokemon Stadium 2 (Europe)
+	F100B680 2400
+	F10852F0 2400
+	F100B684 2400
+
+	Pokemon Stadium 2 (France)
+	F100B680 2400
+	F10852B0 2400
+	F100B684 2400
+
+	Pokemon Stadium 2 (Germany)
+	F100B680 2400
+	F10853F0 2400
+	F100B684 2400
+
+	Pokemon Stadium 2 (Italy)
+	F100B680 2400
+	F10854D0 2400
+	F100B684 2400
+
+	Pokemon Stadium 2 (Spain)
+	F100B680 2400
+	F10854B0 2400
+	F100B684 2400
+
+	Pokemon Stadium 2 (USA)
+	F100B6A0 2400
+	F1085190 2400
+	F100B6A4 2400
+
+	Pokemon Stadium Kin Gin (Japan)
+	F100B5C0 2400
+	F1086A70 2400
+	F100B5C4 2400
+
+Polaris SnoCross (USA)
+	Polaris SnoCross (USA)
+	F1059C24 2400
+	F10596FC 2400
+	F1059708 2400
+
+Power Rangers: Lightspeed Rescue
+	Power Rangers - Lightspeed Rescue (Europe)
+	F10606E0 2400
+	F10025C0 2400
+	F10025E0 2400
+	F1002698 2400
+	F10026C0 2400
+	F1002708 2400
+	F1002730 2400
+	F1002760 2400
+	F1002780 2400
+	F1002978 2400
+	F10029B8 2400
+
+	Power Rangers - Lightspeed Rescue (USA)
+	F1060720 2400
+	F10025C0 2400
+	F10025E0 2400
+	F1002698 2400
+	F10026C0 2400
+	F1002708 2400
+	F1002730 2400
+	F1002760 2400
+	F1002780 2400
+	F1002978 2400
+	F10029B8 2400
+
+Premier Manager 64 (Europe)
+	Premier Manager 64 (Europe)
+	F1002B4C 2400
+	F100262C 2400
+	F1002638 2400
+
+Puyo Puyo 4: Puyo Puyon Party (Japan)
+	Puyo Puyo 4 - Puyo Puyon Party (Japan)
+	F10D2930 2400
+
+Razor Freestyle Scooter (USA)
+	Razor Freestyle Scooter (USA)
+	F109EE70 2400
+
+Re-Volt [Expansion Pak]
+	Re-Volt (Europe) (En,Fr,De,Es)
+	F1001E3C 2400
+
+	Re-Volt (USA)
+	F1001E3C 2400
+
+Ready 2 Rumble Boxing
+	Ready 2 Rumble Boxing (Europe) (En,Fr,De)
+	F1085D1C 2400
+	F10857FC 2400
+	F1085808 2400
+
+	Ready 2 Rumble Boxing (USA)
+	F1085C1C 2400
+	F10856FC 2400
+	F1085708 2400
+
+Ready 2 Rumble Boxing: Round 2 (USA)
+	Ready 2 Rumble Boxing - Round 2 (USA)
+	F109A91C 2400
+	F109A3FC 2400
+	F109A408 2400
+
+Resident Evil 2 [Expansion Pak]
+	Biohazard 2 (Japan)
+	F1000580 2400
+	F1000584 2400
+
+	Resident Evil 2 (Europe) (En,Fr)
+	F10004F0 2400
+	F10004F4 2400
+
+	Resident Evil 2 (USA) (Rev A)
+	F10004F0 2400
+	F10004F4 2400
+
+	Resident Evil 2 (USA)
+	F10004F0 2400
+	F10004F4 2400
+
+Robot Poncots 64: 7tsu no Umi no Caramel (Japan)
+	Robot Poncots 64 - 7tsu no Umi no Caramel (Japan)
+	F107CCA0 2400
+
+Robotech: Crystal Dreams (USA) (Proto)
+	Robotech - Crystal Dreams (USA) (Proto)
+	F105C0DC 2400
+	F105BBBC 2400
+	F105BBC8 2400
+
+Rugrats in Paris: The Movie
+	Rugrats in Paris - The Movie (Europe)
+	F10526B0 2400
+
+	Rugrats in Paris - The Movie (USA)
+	F10525F0 2400
+
+Scooby-Doo!: Classic Creep Capers
+	Scooby-Doo! - Classic Creep Capers (Europe)
+	F107D9B0 2400
+
+	Scooby-Doo! - Classic Creep Capers (USA) (Rev A)
+	F107D910 2400
+
+	Scooby-Doo! - Classic Creep Capers (USA)
+	F107D8B0 2400
+
+Shadowgate 64: Trials of the Four Towers
+	Shadowgate 64 - Trials of the Four Towers (Europe) (Es,It)
+	F109E050 2400
+
+	Shadowgate 64 - Trials of the Four Towers (Europe) (Fr,De,Nl)
+	F109E050 2400
+
+	Shadowgate 64 - Trials of the Four Towers (Europe)
+	F109E050 2400
+
+	Shadowgate 64 - Trials of the Four Towers (Japan)
+	F109D9E0 2400
+
+	Shadowgate 64 - Trials of the Four Towers (USA) (En,Es)
+	F109D550 2400
+
+South Park [Expansion Pak]
+	South Park (Brazil)
+	F10A5B44 2400
+	F107D90C 2400
+	F10A5624 2400
+	F10A5630 2400
+
+	South Park (Europe) (En,Fr,Es)
+	F10A5E8C 2400
+	F107DC44 2400
+	F10A596C 2400
+	F10A5978 2400
+
+	South Park (Germany)
+	F10A5B8C 2400
+	F107D954 2400
+	F10A566C 2400
+	F10A5678 2400
+
+	South Park (USA)
+	F10A5AFC 2400
+	F107D71C 2400
+	F10A55DC 2400
+	F10A55E8 2400
+
+South Park Rally [Expansion Pak]
+	South Park Rally (Europe)
+	F106E870 2400
+
+	South Park Rally (USA)
+	F106E870 2400
+
+Space Invaders (USA)
+	Space Invaders (USA)
+	F10987C8 2400
+	F1098810 2400
+	F109A380 2400
+	F109AED0 2400
+
+Super Bowling
+	Super Bowling (USA)
+	F1053BF0 2400
+
+Super Robot Taisen 64 (Japan)
+	Super Robot Taisen 64 (Japan)
+	F10C0FE0 2400
+
+Super Smash Bros.
+	Super Smash Bros. (Australia)
+	F1039CB0 2400
+
+	Super Smash Bros. (USA)
+	F10396B0 2400
+
+Sydney 2000
+	Sydney 2000 (Europe) (Proto)
+	F1029B34 2400
+	F1037710 2400
+	F10295C4 2400
+	F10295D0 2400
+
+	Sydney 2000 (USA) (Proto)
+	F1029B34 2400
+	F1037710 2400
+	F10295C4 2400
+	F10295D0 2400
+
+Tarzan
+	Tarzan (Europe)
+	F1044DC0 2400
+
+	Tarzan (France)
+	F1044E60 2400
+
+	Tarzan (Germany)
+	F1044E40 2400
+
+	Tarzan (USA)
+	F1044F60 2400
+
+Taz Express
+	Taz Express (Europe) (En,Fr,De,Es,It,Nl)
+	F107884C 2400
+	F1000DB4 2400
+	F107832C 2400
+	F1000DC4 2400
+	F1078338 2400
+
+	Taz Express (USA) (Proto)
+	F10788CC 2400
+	F1000DB4 2400
+	F10783AC 2400
+	F1000DC4 2400
+	F10783B8 2400
+
+Tetrisphere
+	Tetrisphere (Europe)
+	F10D2DE4 2400
+	F10D2DC8 2400
+	F10D2DD4 2400
+	F10D2DF0 2400
+
+	Tetrisphere (USA)
+	F10D0464 2400
+	F10D0448 2400
+	F10D0454 2400
+	F10D0470 2400
+
+Tigger's Honey Hunt
+	Tigger's Honey Hunt (Europe) (En,Fr,De,Es,It,Nl,Da)
+	F10078A4 2400
+	F1087140 2400
+	F1007334 2400
+	F1007340 2400
+
+	Tigger's Honey Hunt (USA)
+	F1008964 2400
+	F10873A0 2400
+	F10083F4 2400
+	F1008400 2400
+
+Toon Panic (Japan) (Proto)
+	Toon Panic (Japan) (Proto)
+	F10B6320 2400
+
+Transformers: Beast Wars Transmetals
+	Transformers - Beast Wars Metals 64 (Japan)
+	F10E7FF0 2400
+
+	Transformers - Beast Wars Transmetals (USA)
+	F10E98F0 2400
+
+Tsumi to Batsu: Hoshi no Keishousha (Japan)
+	Tsumi to Batsu - Hoshi no Keishousha (Japan)
+	F1046150 2400
+
+Turok 2: Seeds of Evil [Expansion Pak]
+	Turok 2 - Seeds of Evil (Europe) (Demo) (Kiosk)
+	F100A86C 2400
+	F109C850 2400
+
+	Turok 2 - Seeds of Evil (Europe) (En,Fr,Es,It)
+	F10A660C 2400
+	F100108C 2400
+	F10A60EC 2400
+	F10A60F8 2400
+
+	Turok 2 - Seeds of Evil (Europe)
+	F10A5B8C 2400
+	F100108C 2400
+	F10A566C 2400
+	F10A5678 2400
+
+	Turok 2 - Seeds of Evil (Germany)
+	F10A5C1C 2400
+	F100108C 2400
+	F10A56FC 2400
+	F10A5708 2400
+
+	Turok 2 - Seeds of Evil (USA) (Demo) (Kiosk)
+	F100A86C 2400
+	F109C850 2400
+
+	Turok 2 - Seeds of Evil (USA) (Rev A)
+	F10A5B8C 2400
+	F100108C 2400
+	F10A566C 2400
+	F10A5678 2400
+
+	Turok 2 - Seeds of Evil (USA)
+	F10A39DC 2400
+	F100108C 2400
+	F10A34BC 2400
+	F10A34C8 2400
+
+	Violence Killer - Turok New Generation (Japan)
+	F10A683C 2400
+	F100108C 2400
+	F10A631C 2400
+	F10A6328 2400
+
+Turok 3: Shadow of Oblivion [Expansion Pak]
+	Turok 3 - Shadow of Oblivion (Europe)
+	F10DD2FC 2400
+
+	Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-05-31)
+	F10E2B6C 2400
+
+	Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-07-10)
+	F10E106C 2400
+
+	Turok 3 - Shadow of Oblivion (USA)
+	F10DD2EC 2400
+
+Turok: Rage Wars [Expansion Pak]
+	Turok - Legenden des Verlorenen Landes (Germany)
+	F10AD90C 2400
+
+	Turok - Rage Wars (Europe) (En,Fr,It)
+	F10ADBEC 2400
+
+	Turok - Rage Wars (Europe)
+	F10ADBAC 2400
+
+	Turok - Rage Wars (USA) (Rev A)
+	F10B29DC 2400
+
+	Turok - Rage Wars (USA)
+	F10AD83C 2400
+
+Vigilante 8 [Expansion Pak]
+	Vigilante 8 (Europe)
+	F116951C 2400
+	F1168FFC 2400
+	F1169008 2400
+
+	Vigilante 8 (France)
+	F11697BC 2400
+	F116929C 2400
+	F11692A8 2400
+
+	Vigilante 8 (Germany)
+	F11695EC 2400
+	F11690CC 2400
+	F11690D8 2400
+
+	Vigilante 8 (USA)
+	F1166BDC 2400
+	F11666BC 2400
+	F11666C8 2400
+
+Vigilante 8: 2nd Offense [Expansion Pak]
+	Vigilante 8 - 2nd Offense (Europe)
+	F1172D94 2400
+	F1180090 2400
+	F1172824 2400
+	F1172830 2400
+
+	Vigilante 8 - 2nd Offense (USA)
+	F1170644 2400
+	F117D940 2400
+	F11700D4 2400
+	F11700E0 2400
+
+Virtual Pro Wrestling 2: Oudou Keishou (Japan)
+	Virtual Pro Wrestling 2 - Oudou Keishou (Japan)
+	F10384C0 2400
+
+WCW Backstage Assault (USA)
+	WCW Backstage Assault (USA)
+	F102110C 2400
+	F1020BEC 2400
+	F1020BF8 2400
+
+WCW Mayhem
+	WCW Mayhem (Europe)
+	F101B94C 2400
+	F101B42C 2400
+	F101B438 2400
+
+	WCW Mayhem (USA)
+	F102110C 2400
+	F1020BEC 2400
+	F1020BF8 2400
+
+WWF No Mercy
+	WWF No Mercy (Europe) (Rev A)
+	F103E1C0 2400
+
+	WWF No Mercy (Europe)
+	F103E360 2400
+
+	WWF No Mercy (USA) (Rev A)
+	F103E2C0 2400
+
+	WWF No Mercy (USA)
+	F103E360 2400
+
+WWF WrestleMania 2000
+	WWF WrestleMania 2000 (Europe)
+	F10376E0 2400
+
+	WWF WrestleMania 2000 (Japan)
+	F10350A0 2400
+
+	WWF WrestleMania 2000 (USA)
+	F10376E0 2400
+
+Yakouchuu II: Satsujin Kouro (Japan)
+	Yakouchuu II - Satsujin Kouro (Japan)
+	F10C24E0 2400
